@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name= "Ndays">
+        <item quantity= "other">%d hari sebelum </item>
+		<item quantity= "one">%d hari sebelum </item>
+	</plurals>
+	<plurals name= "Ndays_after_at">
+        <item quantity= "other"> Pada %1$d  hari di %2$s  </item>
+		<item quantity= "one"> Pada %1$d  hari di %2$s  </item>
+	</plurals>
+	<plurals name= "Ndays_ago_at">
+        <item quantity= "other"> %1$d  hari sebelumnya pada %2$s  </item>
+		<item quantity= "one"> %1$d  hari sebelumnya pada %2$s  </item>
+	</plurals>
+	<plurals name= "Nhours">
+        <item quantity= "other">%d jam sebelum </item>
+		<item quantity= "one">%d jam sebelum </item>
+	</plurals>
+	<plurals name= "Nminutes">
+        <item quantity= "other">%d menit sebelum </item>
+		<item quantity= "one">%d menit sebelum </item>
+	</plurals>
+	<plurals name= "Nweeks">
+        <item quantity= "other">%d minggu lalu </item>
+		<item quantity= "one">%d minggu lalu </item>
+	</plurals>
+	<plurals name= "a_hour_ago">
+        <item quantity= "one"> 1 jam yang lalu </item>
+		<item quantity= "other"> 1 jam yang lalu </item>
+	</plurals>
+	<plurals name= "singkatanv_a_hour_ago">
+        <item quantity= "one"> 1 jam yang lalu </item>
+	<item quantity= "other"> 1 jam yang lalu </item>
+	</plurals>
+	<plurals name= "singkatanv_half_hour_ago">
+        <item quantity= "one"> Setengah jam yang lalu </item>
+	<item quantity= "other"> Setengah jam yang lalu </item>
+	</plurals>
+	<plurals name= "singkatanv_in_a_hour">
+        <item quantity= "one"> Dalam 1 jam </item>
+	<item quantity= "other"> Dalam 1 jam </item>
+	</plurals>
+	<plurals name= "singkatanv_in_half_hour">
+        <item quantity= "one"> Dalam setengah jam </item>
+	<item quantity= "other"> Dalam setengah jam </item>
+	</plurals>
+	<plurals name= "singkatanv_in_less_than_one_minute">
+        <item quantity= "one"> Segera </item>
+	<item quantity= "other"> Segera </item>
+	</plurals>
+	<plurals name= "singkatanv_in_num_minute">
+        <item quantity= "other"> dalam%d min </item>
+	<item quantity= "one"> dalam 1 menit </item>
+	</plurals>
+	<plurals name= "singkatanv_less_than_one_minute_ago">
+        <item quantity= "one"> Sekarang </item>
+	<item quantity= "other"> Sekarang </item>
+	</plurals>
+	<plurals name= "singkatanv_num_minutes_ago">
+        <item quantity= "other"> Lalu%d min </item>
+	<item quantity= "one"> 1 menit yang lalu </item>
+	</plurals>
+	<plurals name= "anniversary_day">
+        <item quantity= "other">% 1 $ s hari </item>
+	<item quantity= "one">% 1 $ s hari </item>
+	</plurals>
+	<plurals name= "anniversary_notify_before_3_day_title">
+        <item quantity= "other"> Anniversary:% 2 $ d tahun dari% 1 $ s dalam 3 hari </item>
+	<item quantity= "one"> Anniversary:% 2 $ d tahun dari% 1 $ s dalam 3 hari </item>
+	</plurals>
+	<plurals name= "anniversary_notify_title">
+        <item quantity= "other"> Hari peringatan:% 2 $ d tahun sejak% 1 $ s </item>
+	<item quantity= "one"> Anniversary:% 2 $ d tahun sejak% 1 $ s </item>
+	</plurals>
+	<plurals name= "anniversary_year">
+        <item quantity= "other">% 1 $ s tahun </item>
+	<item quantity= "one">% 1 $ s tahun </item>
+	</plurals>
+	<plurals name= "birthday_event_description_days_ago">
+        <item quantity= "other"> %1$d  hari sejak </item>
+	<item quantity= "one"> %1$d  hari dari </item>
+	</plurals>
+	<plurals name= "birthday_event_description_days_later">
+        <item quantity= "other"> %1$d  hari hingga </item>
+	<item quantity= "one"> %1$d  hari hingga </item>
+	</plurals>
+	<plurals name= "birthday_notification_age_term">
+        <item quantity= "other">% 1 $ saños </item>
+	<item quantity= "one">% 1 $ saño </item>
+	</plurals>
+	<plurals name= "countdown_day">
+        <item quantity= "other">% 1 $ s hari tersisa </item>
+	<item quantity= "one">% 1 $ s hari tersisa </item>
+	</plurals>
+	<plurals name= "date_calculate_days_after">
+        <item quantity= "other"> %1$d  hari kemudian </item>
+	<item quantity= "one"> %1$d  hari setelah </item>
+	</plurals>
+	<plurals name= "date_calculate_days_ago">
+        <item quantity= "other"> %1$d  hari sebelum </item>
+	<item quantity= "one"> %1$d  hari sebelum </item>
+	</plurals>
+	<plurals name= "date_calculate_direction_backward">
+        <item quantity= "other"> %1$d  hari kemudian </item>
+	<item quantity= "one"> %1$d  hari setelah </item>
+	</plurals>
+	<plurals name= "date_calculate_direction_forward">
+        <item quantity= "other"> %1$d  hari sebelum </item>
+	<item quantity= "one"> %1$d  hari sebelum </item>
+	</plurals>
+	<plurals name= "edit_date_calculate_days_error_hint">
+        <item quantity= "other"> Anda dapat memasukkan hingga %1$d  hari </item>
+	<item quantity= "one"> Anda dapat memasukkan hingga %1$d  hari </item>
+	</plurals>
+	<plurals name= "event_reminders_to_max">
+        <item quantity= "other"> Anda dapat menyetel hingga%d pengingat </item>
+	<item quantity= "one"> Anda dapat menyetel hingga%d pengingat </item>
+	</plurals>
+	<plurals name= "half_hour_ago">
+        <item quantity= "one"> Setengah jam yang lalu </item>
+	<item quantity= "other"> Setengah jam yang lalu </item>
+	</plurals>
+	<plurals name= "in_a_hour">
+        <item quantity= "one"> Dalam 1 jam </item>
+	<item quantity= "other"> Dalam 1 jam </item>
+	</plurals>
+	<plurals name= "in_half_hour">
+        <item quantity= "one"> Dalam setengah jam </item>
+	<item quantity= "other"> Dalam setengah jam </item>
+	</plurals>
+	<plurals name= "in_less_than_one_minute">
+        <item quantity= "one"> Segera </item>
+	<item quantity= "other"> Segera </item>
+	</plurals>
+	<plurals name= "in_num_minutes">
+        <item quantity= "other"> dalam%d menit </item>
+	<item quantity= "one"> dalam 1 menit </item>
+	</plurals>
+	<plurals name= "less_than_one_minute_ago">
+        <item quantity= "one"> Sekarang </item>
+	<item quantity= "other"> Sekarang </item>
+	</plurals>
+	<plurals name= "mtrl_badge_content_description">
+        <item quantity= "other">%d pemberitahuan baru </item>
+	<item quantity= "one">%d pemberitahuan baru </item>
+	</plurals>
+	<plurals name= "n_attendees">
+        <item quantity= "other">%d undangan </item>
+	<item quantity= "one">%d undangan </item>
+	</plurals>
+	<plurals name= "num_minutes_ago">
+        <item quantity= "other">%d menit yang lalu </item>
+	<item quantity= "one"> 1 menit yang lalu </item>
+	</plurals>
+	<plurals name= "other_all_day_events">
+        <item quantity= "other">%d acara lainnya </item>
+	<item quantity= "one">%d acara lainnya </item>
+	</plurals>
+	<plurals name= "reminder_custom_unit_day">
+        <item quantity= "other"> "days" </item>
+	<item quantity= "one"> "day" </item>
+	</plurals>
+	<plurals name= "reminder_custom_unit_hour">
+        <item quantity= "other"> "hours" </item>
+	<item quantity= "one"> "hour" </item>
+	</plurals>
+	<plurals name= "reminder_custom_unit_minute">
+        <item quantity= "other"> "minutes" </item>
+	<item quantity= "one"> "minute" </item>
+	</plurals>
+	<plurals name= "reminder_later_toast">
+        <item quantity= "other"> Pengingat berikutnya dalam %1$d  menit </item>
+	<item quantity= "one"> Pengingat berikutnya dalam %1$d  menit </item>
+	</plurals>
+	<plurals name= "repeat_custom_prompt">
+        <item quantity= "other"> setiap% 1 $ s %2$s  </item>
+	<item quantity= "one"> setiap% 1 $ s %2$s  </item>
+	</plurals>
+	<plurals name= "repeat_interval_frequency_day_multiple">
+        <item quantity= "other"> %1$d  hari </item>
+	<item quantity= "one"> %1$d  hari </item>
+	</plurals>
+	<plurals name= "repeat_interval_frequency_month_multiple">
+        <item quantity= "other"> %1$d  bulan </item>
+	<item quantity= "one"> %1$d  bulan </item>
+	</plurals>
+	<plurals name= "repeat_interval_frequency_week_multiple">
+        <item quantity= "other"> %1$d  minggu </item>
+	<item quantity= "one"> %1$d  minggu </item>
+	</plurals>
+	<plurals name= "repeat_interval_frequency_year_multiple">
+        <item quantity= "other"> %1$d  tahun </item>
+	<item quantity= "one"> %1$d  tahun </item>
+	</plurals>
+	<plurals name= "travel_time_range_hours">
+        <item quantity= "other">%d h </item>
+	<item quantity= "one">%d h </item>
+	</plurals>
+	<plurals name= "travel_time_range_mins">
+        <item quantity= "other">%d min </item>
+	<item quantity= "one">%d min </item>
+	</plurals>
+	<plurals name= "weekN">
+        <item quantity= "one"> WEEK%d </item>
+	<item quantity= "other"> WEEK%d </item>
+	</plurals>
+	<plurals name= "work_days">
+        <item quantity= "other">%d hari kerja </item>
+	<item quantity= "one">%d hari kerja </item>
+	</plurals>
+</resources >

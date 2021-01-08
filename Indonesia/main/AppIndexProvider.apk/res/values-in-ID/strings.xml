@@ -1,0 +1,9 @@
+<resources>
+    
+<string name="app_name">Pengaturan</string>
+	<string name="app_label">Menemukan pengaturan</string>
+    <string name="application_desc">Aplikasi</string>
+    <string name="search_label">Pengaturan</string>
+    <string name="settings_description">Pengaturan</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name= "entries">
+		<item quantity= "other" >%d elemen </item>
+		<item quantity= "one" >%d item </item>
+	</plurals>
+	<plurals  name = "loan_repayment_detail">
+		<item quantity= "other" > Amortisasi terperinci (%d tahun) </item>
+		<item quantity= "one" > Amortisasi terperinci (%d tahun) </item>
+	</plurals>
+	<plurals  name = "loan_repayment_detail_unit">
+		<item quantity= "other" > Amortisasi Terperinci (%d tahun), CNY </item>
+		<item quantity= "one" > Amortisasi Terperinci (%d tahun), CNY </item>
+	</plurals>
+	<plurals name = "mortgage_summary_years">
+		<item quantity= "other" >%1$d tahun (%2$ d bulan) </item>
+		<item quantity= "one" >%1$d tahun (%2$ d bulan) </item>
+	</plurals>
+</resources>

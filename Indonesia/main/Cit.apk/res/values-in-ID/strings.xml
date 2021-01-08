@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name = "ANT_set_title"> setel ant </string >
+	<string name = "DSI_configuration_set"> setel DSI </string >
+	<string name = "DSI_setting"> DSI </string >
+	<string name = "DSI_value_get"> dapatkan DSI </string >
+	<string name = "SDCard"> Penyimpanan eksternal </string >
+	<string name = "SD_INTERNAL_SDCard_mounted"> Deteksi Penyimpanan Internal </string >
+	<string name = "SD_INTERNAL_SDCard_unmounted"> Penyimpanan internal tidak tersedia </string >
+	<string name = "SD_SDCard_available_szie"> Ruang yang tersedia </string >
+	<string name = "SD_SDCard_mounted"> Deteksi Penyimpanan Internal </string >
+	<string name = "SD_SDCard_total_size"> Ukuran total </string >
+	<string name = "SD_SDCard_unmounted"> Penyimpanan tidak tersedia </string >
+	<string name = "abc_action_bar_home_description"> Buka layar utama </string >
+	<string name = "abc_action_bar_up_description"> Naik </string >
+	<string name = "abc_action_menu_overflow_description"> Lainnya </string >
+	<string name = "abc_action_mode_done"> Selesai </string >
+	<string name = "abc_activity_chooser_view_see_all"> Lihat semua </string >
+	<string name = "abc_activitychooserview_choose_application"> Pilih aplikasi </string >
+	<string name = "abc_capital_off"> OFF </string >
+	<string name = "abc_capital_on"> AKTIF </string >
+	<string name = "abc_menu_alt_shortcut_label"> Alt + </string >
+	<string name = "abc_menu_ctrl_shortcut_label"> Ctrl + </string >
+	<string name = "abc_menu_delete_shortcut_label"> Hapus </string >
+	<string name = "abc_menu_enter_shortcut_label"> Masukkan </string >
+	<string name = "abc_menu_function_shortcut_label"> Fungsi + </string >
+	<string name = "abc_menu_meta_shortcut_label"> Meta + </string >
+	<string name = "abc_menu_shift_shortcut_label"> Shift + </string >
+	<string name = "abc_menu_space_shortcut_label"> Spasi </string >
+	<string name = "abc_menu_sym_shortcut_label"> Sym + </string >
+	<string name = "abc_prepend_shortcut_label"> Menu + </string >
+	<string name = "abc_search_hint"> Telusuri ... </string >
+	<string name = "abc_searchview_description_clear"> Hapus kueri </string >
+	<string name = "abc_searchview_description_query"> Kueri </string >
+	<string name = "abc_searchview_description_search"> Telusuri </string >
+	<string name = "abc_searchview_description_submit"> Kirim kueri </string >
+	<string name = "abc_searchview_description_voice"> Penelusuran suara </string >
+	<string name = "abc_shareactionprovider_share_with"> Bagikan dengan </string >
+	<string name = "abc_shareactionprovider_share_with_application"> Bagikan dengan% s </string >
+	<string name = "abc_toolbar_collapse_description"> Ciutkan </string >
+	<string name = "action_example"> Contoh Tindakan </string >
+	<string name = "action_nothing"> tunggu pengujian </string >
+	<string name = "add"> Tambahkan </string >
+	<string name = "allow_gpu_maxfreq_summary"> Mode eksperimental pencatatan jam kerja GPU dapat menyebabkan masalah daya atau bahkan masalah yang lebih serius. Namun, mereka akan dipulihkan setelah Anda menonaktifkan mode ini. Aktifkan mode GPU maxfreq? </string >
+	<string name = "ant_setting"> ant </string >
+	<string name = "audio_spk_cal_wait"> Kalibrasi, silakan ... </string >
+	<string name = "audio_spk_def"> Kalibrasikan speaker, harap </string >
+	<string name = "back_mic_check_record_tip"> Sedang merekam, ucapkan sesuatu ke MIC di bagian belakang ponsel </string >
+	<string name = "band_config_setting"> BAND </string >
+	<string name = "battery_dual_connector"> Konektor Baterai Kedua </string >
+	<string name = "battery_id"> ID Baterai: </string >
+	<string name = "battery_info"> Informasi yang berkaitan dengan pengisian baterai </string >
+	<string name = "battery_plug_wirelee_summary"> Pengisi daya nirkabel di setiap koneksi, lepaskan sekali </string >
+	<string name = "battery_plug_wirelee_title"> Uji pengisian nirkabel </string >
+	<string name = "battery_plugin_wirelee"> Pengisian nirkabel terhubung </string >
+	<string name = "battery_plugout_wirelee"> Harap hubungkan pengisian nirkabel </string >
+	<string name = "battery_value"> Listrik </string >
+	<string name = "begin_to_save_finger_data"> Mulai menyimpan data sidik jari </string >
+	<string name = "bt_address"> Alamat: </string >
+	<string name = "bt_name"> Nama: </string >
+	<string name = "button_ok"> OK </string >
+	<string name = "camera_capture"> Jepret </string >
+	<string name = "camera_done"> Selesai </string >
+	<string name = "camera_error"> "Perangkat ini tidak mendukung Camera2 API." </string >
+	<string name = "camera_flood"> - Banjir - </string >
+	<string name = "camera_menu_list"> Daftar kamera </string >
+	<string name = "camera_not_support_raw10"> Kamera tidak mendukung format gambar raw10! </string >
+	<string name = "camera_preview"> pratinjau </string >
+	<string name = "camera_projector"> - Proyektor - </string >
+	<string name = "camera_zoom"> Zoom </string >
+	<string name = "camerainfo"> Informasi kamera </string >
+	<string name = "can_not_get_numbers_of_keys"> tidak bisa mendapatkan nomor kunci </string >
+	<string name = "cancel"> Batal </string >
+	<string name = "cancelEnrol"> Batalkan pendaftaran </string >
+	<string name = "cancel_test"> UJI DIBATALKAN </string >
+	<string name = "capacitance_test"> UJI KAPASITANSI </string >
+	<string name = "charger_test_end"> "
+Uji pengisi daya selesai, cabut pengisi daya "</string >
+	<string name = "checkerboard_test"> PAPAN UJI </string >
+	<string name = "cit_OTG_plug_check_summary"> Selama pengujian, hubungkan kedua konektor perangkat USB_OTG </string >
+	<string name = "cit_OTG_plug_check_title"> OTG </string >
+	<string name = "cit_OTG_plugin_check_summary"> Ketika perangkat OTG terhubung, itu akan muncul
+di bawah teks \ "Perangkat OTG USB terdeteksi \". </string >
+	<string name = "cit_OTG_plugin_check_title"> OTG (deteksi) </string >
+	<string name = "cit_OTG_plugout_check_summary"> Saat perangkat OTG dilepas, teks \ "perangkat OTG USB dilepas \" akan ditampilkan di bawah. </string >
+	<string name = "cit_OTG_plugout_check_title"> OTG (periksa) </string >
+	<string name = "cit_OTG_waiting_in"> Harap hubungkan perangkat USB_OTG </string >
+	<string name = "cit_OTG_waiting_in_charge"> Hubungkan perangkat USB OTG sekarang </string >
+	<string name = "cit_OTG_waiting_out"> Harap sambungkan perangkat USB_OTG dan balikkan konektor </string >
+	<string name = "cit_Reserse_charge_check_title"> Uji beban terbalik </string >
+	<string name = "cit_SAR_TEST_TOOL"> MULAI UJI SAR </string >
+	<string name = "cit_abnormal_reboot_summary"> Harap tunggu ... Baca data stabilitas dari perangkat. </string >
+	<string name = "cit_abnormal_reboot_title"> Data stabilitas perangkat </string >
+	<string name = "cit_ac_charger_in"> Isi daya melalui (USB_DCP) </string >
+	<string name = "cit_ac_charger_out"> Pengisi daya AC terputus </string >
+	<string name = "cit_accdata_second_sensor_check_title"> Akselerometer kedua </string >
+	<string name = "cit_accdata_sensor_check_summary"> Nilai untuk koordinat X, Y, Z harus muncul di bawah </string >
+	<string name = "cit_accdata_sensor_check_title"> Akselerometer </string >
+	<string name = "cit_accelermeter_sensor_check_summary"> "Pindahkan perangkat dengan cepat ke satu arah. Nilai koordinat X, Y, Z ditunjukkan di bawah ini. (saat ponsel bergerak: X mewakili kiri / kanan, dan mewakili depan / mundur, z melambangkan atas dan bawah).
+Sebelum mengkalibrasi perangkat, letakkan di permukaan yang datar. "</string >
+	<string name = "cit_accelermeter_sensor_check_title"> Akselerometer </string >
+	<string name = "cit_analog_headset_plug_hint"> Hubungkan headphone analog sekarang </string >
+	<string name = "cit_apk_signature_failed"> tanda tangan apk GAGAL </string >
+	<string name = "cit_apk_signature_passed"> tanda tangan apk DISETUJUI </string >
+	<string name = "cit_aud_current_state"> Keadaan saat ini: </string >
+	<string name = "cit_aud_spk_vendor"> Penyedia speaker: </string >
+	<string name = "cit_aud_spkcal"> Kalibrasi </string >
+	<string name = "cit_aud_test_result"> Hasil tes: </string >
+	<string name = "cit_audio_cali_TEMP"> Suhu: </string >
+	<string name = "cit_audio_cali_done"> Kalibrasi selesai! </string >
+	<string name = "cit_audio_cali_failed"> Kalibrasi gagal , coba lagi. </string >
+	<string name = "cit_audio_cali_fast_test_title"> Uji kalibrasi amplifier speaker cepat </string >
+	<string name = "cit_audio_cali_file_existed"> File musik tidak ada, kalibrasi tidak dapat dilakukan. </string >
+	<string name = "cit_audio_cali_playing"> Verifikasi data yang dikalibrasi </string >
+	<string name = "cit_audio_cali_summary"> Kalibrasi speaker PA </string >
+	<string name = "cit_audio_cali_test_summary"> Sebelum mengkalibrasi speaker, pastikan speaker tidak sedang diputar </string >
+	<string name = "cit_audio_cali_title"> Uji kalibrasi speaker PA </string >
+	<string name = "cit_audio_calibrating"> Kalibrasi sedang berlangsung ... </string >
+	<string name = "cit_audio_get_temp_fail"> Kesalahan mendapatkan data sementara! </string >
+	<string name = "cit_audio_lb_backmic_to_speaker_title"> Tes umpan balik speaker mikrofon belakang </string >
+	<string name = "cit_audio_lb_frontmic_to_speaker_title"> Tes umpan balik speaker mikrofon depan </string >
+	<string name = "cit_audio_lb_mainmic_to_earpiece_title"> Tes umpan balik speaker mikrofon utama </string >
+	<string name = "cit_audio_lb_phonecall_title"> Tes panggilan simulasi </string >
+	<string name = "cit_audio_lb_summary_backmic_to_speaker"> "Uji umpan balik mikrofon ke speaker.
+
+Balikkan telepon, bicara ke mikrofon belakang, Anda harus mendengar suara di speaker "</string >
+	<string name = "cit_audio_lb_summary_frontmic_to_speaker"> "Tes umpan balik mikrofon ke speaker.
+
+Bicaralah ke mikrofon depan, Anda akan mendengar suara di speaker "</string >
+	<string name = "cit_audio_lb_summary_mainmic_to_earpiece"> "Uji umpan balik dari mikrofon utama ke penerima.
+
+Pegang telepon seolah-olah Anda sedang melakukan panggilan, berbicara ke mikrofon utama, Anda harus mendengar suara penerima "</string >
+	<string name = "cit_audio_lb_summary_phonecall"> "Tes panggilan simulasi.
+
+Pegang telepon seolah-olah Anda sedang membuat panggilan, berbicara ke mikrofon utama, Anda harus mendengar suara di penerima. lakukan pengujian di lingkungan yang tenang "</string >
+	<string name = "cit_audio_lb_summary_topmic_to_speaker"> "Uji umpan balik mikrofon ke speaker.
+
+Bicaralah ke mikrofon atas, Anda akan mendengar suara di speaker "</string >
+	<string name = "cit_audio_lb_topmic_to_speaker_title"> Tes umpan balik speaker mikrofon atas </string >
+	<string name = "cit_audio_left_caldata"> "Data kalibrasi PA kiri:
+"</string >
+	<string name = "cit_audio_left_calfail"> Kalibrasi PA kiri gagal ! </string >
+	<string name = "cit_audio_loopback_check_one_title"> Tes umpan balik penerima mikrofon utama </string >
+	<string name = "cit_audio_loopback_check_summary_first"> "Tes umpan balik penerima mikrofon utama
+
+Pegang telepon seolah-olah melakukan panggilan, bicaralah ke mikrofon dan Anda akan mendengar suara Anda di penerima. "</string >
+	<string name = "cit_audio_loopback_check_summary_second"> "Tes umpan balik speaker mikrofon sekunder.
+
+Putar telepon sehingga jack headphone menghadap ke bawah. Bicaralah untuk penerima. Anda harus mendengar suara Anda melalui speaker eksternal. "</string >
+	<string name = "cit_audio_loopback_check_two_title"> Tes umpan balik speaker mikrofon sekunder </string >
+	<string name = "cit_audio_loopback_dualmic_earpiece_title"> Uji pengurangan kebisingan lingkungan </string >
+	<string name = "cit_audio_loopback_next"> Berikutnya </string >
+	<string name = "cit_audio_loopback_previous"> Sebelumnya </string >
+	<string name = "cit_audio_loopback_summary_dualmic_earpiece"> "Uji pengurangan kebisingan lingkungan
+
+Pegang telepon seolah-olah Anda sedang menjawab panggilan, bicaralah ke mikrofon. Anda akan mendengar suara Anda dengan pengurangan kebisingan di latar belakang yang diputar melalui penerima. "</string >
+	<string name = "cit_audio_right_caldata"> "Data kalibrasi AP yang tepat:
+"</string >
+	<string name = "cit_audio_right_calfail"> Kalibrasi PA kanan gagal ! </string >
+	<string name = "cit_aux_camera_action"> Zoom </string >
+	<string name = "cit_aux_camera_check_summary"> "Petunjuk pengujian:
+
+1. Ketuk tombol Zoom di bawah untuk masuk ke antarmuka kamera
+2. Ketuk tombol Zoom pada pratinjau kamera, bingkai pratinjau akan memperbesar
+3. Ketuk ikon Selesai. "</string >
+	<string name = "cit_aux_camera_check_summary_no_zoom"> "Instruksi tes:
+
+1. Ketuk tombol Pratinjau di bawah untuk masuk ke antarmuka kamera
+2. Tunggu akhir pratinjau, kembali otomatis. "</string >
+	<string name = "cit_back_light_sensor_check_title"> Sensor lampu belakang </string >
+	<string name = "cit_back_pointer_location_title"> Sensor sentuh belakang </string >
+	<string name = "cit_battery_check_summary"> Statistik baterai perangkat </string >
+	<string name = "cit_battery_check_title"> Informasi baterai </string >
+	<string name = "cit_battery_temp_fail"> Suhu baterai tidak normal (value =% d) </string >
+	<string name = "cit_battery_temp_pass"> Suhu baterai normal </string >
+	<string name = "cit_batterylight_blue"> Biru </string >
+	<string name = "cit_batterylight_green"> Hijau </string >
+	<string name = "cit_batterylight_red"> Merah </string >
+	<string name = "cit_batterylight_rgb"> Lampu baterai </string >
+	<string name = "cit_batterylight_white"> Putih </string >
+	<string name = "cit_blue_tooth_address_check_summary"> Alamat Bluetooth perangkat ini harus ditampilkan di bawah. </string >
+	<string name = "cit_blue_tooth_address_check_title"> Dapatkan alamat Bluetooth </string >
+	<string name = "cit_blue_tooth_scan_check_summary"> Di bawah ini adalah informasi dari perangkat Bluetooth yang terdeteksi di sekitar. </string >
+	<string name = "cit_blue_tooth_scan_check_title"> Pemindaian Bluetooth </string >
+	<string name = "cit_blue_torch_on"> Nyalakan lampu flash biru </string >
+	<string name = "cit_bluetooth_address_open_error"> "Alamat Bluetooth tidak dapat diperoleh. Ada kesalahan saat membuka perangkat Bluetooth." </string >
+	<string name = "cit_bluetooth_logging_confirm_info"> log Bluetooth ini akan mengumpulkan data protokol Bluetooth perangkat Anda, ini hanya akan mencatat operasi Bluetooth saat ini. Data informasi privasi juga akan direkam: akses ke buku telepon Bluetooth / riwayat panggilan telepon / SMS / MMS / file yang dipertukarkan / metadata musik, dll. Data ini terbatas pada debugging internal perusahaan XiaoMi dengan pengguna, tetapi tidak dapat digunakan untuk tujuan lain. </string >
+	<string name = "cit_bluetooth_logging_confirm_ng"> Tolak </string >
+	<string name = "cit_bluetooth_logging_confirm_notify"> Apakah Anda setuju untuk mengaktifkan logging? </string >
+	<string name = "cit_bluetooth_logging_confirm_ok"> Oke </string >
+	<string name = "cit_bluetooth_logging_confirm_title"> Peringatan privasi logging Bluetooth </string >
+	<string name = "cit_bluetooth_not_support"> "Perangkat ini tidak mendukung Bluetooth" </string >
+	<string name = "cit_bluetooth_scan_retry"> Pindai lagi </string >
+	<string name = "cit_bluetooth_scanning"> Cari perangkat Bluetooth terdekat (ini akan memakan waktu sekitar 4 detik) ... </string >
+	<string name = "cit_bluetooth_scanning_bluetooth_done"> "Selesai. Saya tidak menemukan perangkat Bluetooth di sekitar." </string >
+	<string name = "cit_bluetooth_scanning_bluetooth_error"> Terjadi kesalahan saat mencari perangkat Bluetooth. </string >
+	<string name = "cit_bluetooth_scanning_opening_bluetooth"> Membuka perangkat Bluetooth ... </string >
+	<string name = "cit_build_finger_failed"> buat sidik jari GAGAL </string >
+	<string name = "cit_build_finger_passed"> buat sidik jari BERLAKU </string >
+	<string name = "cit_button_light_off"> Tombol dimatikan </string >
+	<string name = "cit_button_light_on"> Tombol menyala </string >
+	<string name = "cit_calibration_fail"> Kalibrasi gagal </string >
+	<string name = "cit_calibration_pass"> Kalibrasi disetujui </string >
+	<string name = "cit_camera_calibration_summary"> "Instruksi tes:
+
+1. Ketuk tombol kalibrasi di bawah ini untuk memulai kalibrasi OIS.
+2. Akan ada tag pass kalibrasi untuk menunjukkan bahwa ois telah dikalibrasi "</string >
+	<string name = "cit_camera_fast_check_title"> Tes kamera cepat </string >
+	<string name = "cit_camera_rearsub"> Uji kamera sekunder belakang sedang berlangsung, harap tunggu ... </string >
+	<string name = "cit_camera_sdcard_error"> "Saya tidak bisa mengambil gambar. Kartu SD penuh." </string >
+	<string name = "cit_camerasfr_test"> Menganalisis gambar, harap tunggu ... </string >
+	<string name = "cit_charge_usb_dcp"> Memuat ： USB_DCP </string >
+	<string name = "cit_charge_usb_hvdcp"> Memuat ： USB_HVDCP </string >
+	<string name = "cit_charge_usb_pd"> Memuat ： USB_PD </string >
+	<string name = "cit_charger_check_title"> Uji pengisi daya </string >
+	<string name = "cit_charger_in"> Pengisi daya tersambung </string >
+	<string name = "cit_charger_in_check_title"> Tes penyisipan pemuat </string >
+	<string name = "cit_charger_plugin_check_summary"> Saat pengisi daya USB terhubung, teks \ "Charging via USB / AC \" akan ditampilkan di bawah. </string >
+	<string name = "cit_charger_plugin_check_title"> Pengisi daya (sambungkan) </string >
+	<string name = "cit_charger_plugout_check_summary"> Saat pengisi daya USB dicabut, teks \ "pengisi daya USB / AC terputus \" akan muncul di bawah. </string >
+	<string name = "cit_charger_plugout_check_title"> Pengisi daya (putuskan sambungan) </string >
+	<string name = "cit_charger_test_summary"> "Selama pengujian pengisi daya, hubungkan pengisi daya
+dan colokan balik "</string >
+	<string name = "cit_charger_test_tips_electric"> Proyek saat ini harus menguji nilai arus pengisian yang lebih besar dari 1A </string >
+	<string name = "cit_charger_test_tips_hvdcp"> Proyek saat ini perlu menguji USB_HVDCP </string >
+	<string name = "cit_charger_test_tips_pd"> Mesin saat ini perlu menguji USB_PD </string >
+	<string name = "cit_charger_waiting_in"> Hubungkan pengisi daya </string >
+	<string name = "cit_charger_waiting_out"> Putuskan sambungan pengisi daya sekarang </string >
+	<string name = "cit_def_torch_on_one"> Nyalakan flash pertama </string >
+	<string name = "cit_def_torch_on_three"> Nyalakan flash ketiga </string >
+	<string name = "cit_def_torch_on_two"> Nyalakan flash kedua </string >
+	<string name = "cit_depth_camera_check_title"> Kamera kedalaman </string >
+	<string name = "cit_diag_chaging_summary"> Salin file dari pencatat beban ke kartu SD </string >
+	<string name = "cit_diag_chaging_title"> Baca log biaya </string >
+	<string name = "cit_diag_chaging_wait"> Harap tunggu ... Menyalin file </string >
+	<string name = "cit_diag_jank_summary"> Salin file dari jank logger ke kartu sd </string >
+	<string name = "cit_diag_jank_title"> Baca jank logger </string >
+	<string name = "cit_diag_signal_summary"> Salin file logger stabilitas tunggal ke kartu SD </string >
+	<string name = "cit_diag_signal_title"> Baca perekam stabilitas individu </string >
+	<string name = "cit_dial_emergencycall"> Tekan 112 </string >
+	<string name = "cit_display_check_summary"> Konfirmasikan bahwa warna ditampilkan secara merata di seluruh layar. Pastikan tidak ada titik terang atau gelap yang tidak beraturan. </string >
+	<string name = "cit_display_check_title"> Tampilkan </string >
+	<string name = "cit_display_continue"> Layar sentuh untuk memulai pengujian </string >
+	<string name = "cit_display_test_end"> Akhiri pengujian </string >
+	<string name = "cit_display_test_next"> Berikutnya </string >
+	<string name = "cit_emergencycall_check_summary"> Klik tombol Dial 112 untuk menekan 112 dan periksa apakah 112 dapat ditempatkan. </string >
+	<string name = "cit_emergencycall_check_title"> Panggilan darurat </string >
+	<string name = "cit_exit_test_summary"> Saat Anda keluar, semua data teks terkait akan dihapus. </string >
+	<string name = "cit_exit_test_title"> Keluar dari pengujian </string >
+	<string name = "cit_f2_cali"> Kalibrasi </string >
+	<string name = "cit_f2_cali_done"> Kalibrasi selesai! </string >
+	<string name = "cit_f2_cali_failed"> Kalibrasi gagal , coba lagi. </string >
+	<string name = "cit_f2_cali_title"> Kalibrasi kamera </string >
+	<string name = "cit_f2_calibrating"> Kalibrasi sedang berlangsung ... </string >
+	<string name = "cit_f2_camera_check_summary"> "Instruksi tes:
+
+1. Sentuh tombol kalibrasi.
+2. Akan ada tag pass kalibrasi untuk menunjukkan bahwa kamera telah dikalibrasi. "</string >
+	<string name = "cit_f2_capture_fail"> Pengambilan gagal, coba lagi. </string >
+	<string name = "cit_f2_capture_success"> Klik tombol kalibrasi. </string >
+	<string name = "cit_fail"> Gagal </string >
+	<string name = "cit_fast_screen_touch_check_title"> Uji verifikasi layar sentuh cepat </string >
+	<string name = "cit_finger_check_title"> Uji sidik jari </string >
+	<string name = "cit_flash_life_check_summary"> Perkiraan masa pakai flash perangkat </string >
+	<string name = "cit_flash_life_check_title"> Kehidupan flash </string >
+	<string name = "cit_flicker_sensor_check_summary"> Nilai Flicker akan muncul di bawah </string >
+	<string name = "cit_flicker_sensor_check_title"> Sensor flicker </string >
+	<string name = "cit_fm_audio_path"> Setel jalur audio </string >
+	<string name = "cit_fm_audio_path_headset"> Headphone </string >
+	<string name = "cit_fm_audio_path_speaker"> Speaker </string >
+	<string name = "cit_fm_check_summary"> "Ini akan menguji fungsi FM perangkat
+Sebelum tes, Anda harus memasukkan earphone "</string >
+	<string name = "cit_fm_check_title"> Radio FM </string >
+	<string name = "cit_fm_close"> Tutup FM </string >
+	<string name = "cit_fm_not_supported"> "Perangkat ini tidak mendukung FM" </string >
+	<string name = "cit_fm_open_1"> Mulai FM - 88.5 </string >
+	<string name = "cit_fm_open_2"> Mulai FM - 107,9 </string >
+	<string name = "cit_fm_open_bluetooth"> Membuka Bluetooth… </string >
+	<string name = "cit_fm_start_service"> Mulai audio </string >
+	<string name = "cit_fpc_checkerboard_test"> PAPAN UJI </string >
+	<string name = "cit_fpc_selftest"> AUTOTEST </string >
+	<string name = "cit_fpc_sensor_check_summary"> Uji sensor FPC, tekan tombol dan tunggu sampai informasi persetujuan yang disorot dengan warna hijau benar. </string >
+	<string name = "cit_fpc_sensor_check_title"> Sensor sidik jari FPC </string >
+	<string name = "cit_fptest_summary"> Tekan tombol FpTest untuk melakukan tes sidik jari </string >
+	<string name = "cit_front_camera_check_summary"> "Instruksi tes:
+
+1. Ketuk tombol kamera di bawah untuk masuk ke antarmuka kamera depan
+2. Ketuk tombol rana
+3. Sistem akan menyimpan foto secara otomatis setelah pengambilan
+4. Foto yang Anda ambil akan ditampilkan di layar, ketuk Lulus untuk menyelesaikan tes. "</string >
+	<string name = "cit_front_camera_check_title"> Kamera depan </string >
+	<string name = "cit_front_camera_motor_cali_fail"> Kalibrasi mesin gagal </string >
+	<string name = "cit_front_camera_motor_cali_success"> Kalibrasi mesin berhasil </string >
+	<string name = "cit_front_camera_motor_cali_tips"> Jangan mengunci kamera selama proses kalibrasi motor kamera pop-up </string >
+	<string name = "cit_get_signature_failed"> dapatkan tanda tangan FAILED </string >
+	<string name = "cit_goodix_sensor_check_summary"> Uji sensor Goodix, tekan tombol dan tunggu informasi persetujuan yang disorot dengan warna hijau menjadi benar. </string >
+	<string name = "cit_gps_check_summary"> Informasi GPS terkait harus ditampilkan di bawah. </string >
+	<string name = "cit_gps_disabled"> "GPS belum dimulai
+
+Sentuh layar untuk memulai GPS… "</string >
+	<string name = "cit_gps_first_fix_time"> Waktu_ tetap:% s </string >
+	<string name = "cit_gps_location"> Lokasi:% s </string >
+	<string name = "cit_gps_satellite_count"> Jumlah satelit:% d </string >
+	<string name = "cit_gps_satellite_prn"> Prn:% s </string >
+	<string name = "cit_gps_satellite_snr"> Snr:% s </string >
+	<string name = "cit_gyrodata_second_sensor_check_title"> Giroskop kedua </string >
+	<string name = "cit_gyrodata_sensor_check_summary"> Nilai untuk koordinat X, Y, Z, harus muncul di bawah </string >
+	<string name = "cit_gyrodata_sensor_check_title"> Giroskop </string >
+	<string name = "cit_gyroscope_sensor_check_summary"> Nilai untuk koordinat X, Y, Z, harus muncul di bawah </string >
+	<string name = "cit_gyroscope_sensor_check_title"> Giroskop </string >
+	<string name = "cit_hall_far"> jauh </string >
+	<string name = "cit_hall_miui_test_summary"> Ketika magnet dekat dengan area hijau, layar menjadi hitam, jika tidak maka layar menjadi cerah. </string >
+	<string name = "cit_hall_near"> tutup </string >
+	<string name = "cit_hall_phone_slider_status_down"> Status ponsel geser: geser ke bawah </string >
+	<string name = "cit_hall_phone_slider_status_up"> Status ponsel geser: geser ke atas </string >
+	<string name = "cit_hall_test_summary"> Saat magnet mendekati area hijau, teks akan menutup; jika tidak, teksnya harus jauh. </string >
+	<string name = "cit_headset_button_check_summary"> Saat headphone tersambung, tekan tombol pada remote control untuk headphone (biasanya terletak di kabel). Teks yang sesuai di layar akan berubah menjadi hijau. </string >
+	<string name = "cit_headset_button_check_title"> Tombol headphone </string >
+	<string name = "cit_headset_button_click"> Tekan tombol di headphone </string >
+	<string name = "cit_headset_button_current"> Tombol saat ini:% s </string >
+	<string name = "cit_headset_button_fast_forward"> Maju cepat </string >
+	<string name = "cit_headset_button_next"> Berikutnya </string >
+	<string name = "cit_headset_button_pass"> Lulus </string >
+	<string name = "cit_headset_button_play_pause"> Putar / Jeda </string >
+	<string name = "cit_headset_button_previous"> Sebelumnya </string >
+	<string name = "cit_headset_button_reverse"> Masukkan headset USB secara terbalik </string >
+	<string name = "cit_headset_button_rewind"> Putar Ulang </string >
+	<string name = "cit_headset_button_stop"> Berhenti </string >
+	<string name = "cit_headset_button_unknown"> Tidak diketahui </string >
+	<string name = "cit_headset_loopback_check_summary"> "Dengan headphone menyala, sambungkan ke perangkat. Bicaralah ke mikrofon headphone (biasanya terletak di kabel). Anda akan mendengar suara Anda melalui speaker headphone." </string >
+	<string name = "cit_headset_loopback_check_title"> Tes umpan balik mikrofon headphone </string >
+	<string name = "cit_headset_plug_detect_summary"> Saat headphone tersambung, teks \ "Headphone terdeteksi \" harus ditampilkan di bawah. </string >
+	<string name = "cit_headset_plug_detect_title"> Deteksi headphone (sambungkan) </string >
+	<string name = "cit_headset_plug_finish"> Headphone terdeteksi </string >
+	<string name = "cit_headset_plug_hint"> Colokkan headphone sekarang </string >
+	<string name = "cit_headset_pull_detect_summary"> Saat headphone dicabut, teks \ "Headphone telah diputuskan \" akan muncul di bawah </string >
+	<string name = "cit_headset_pull_detect_title"> Deteksi headphone (putuskan sambungan) </string >
+	<string name = "cit_headset_pull_finish"> Headphone telah diputuskan </string >
+	<string name = "cit_headset_pull_finish_test"> Headphone terputus, pengujian selesai </string >
+	<string name = "cit_headset_pull_hint"> Cabut headphone sekarang </string >
+	<string name = "cit_hide_menu"> Sembunyikan menu </string >
+	<string name = "cit_kayboard_volume_down"> Tombol: VOLUME DOWN </string >
+	<string name = "cit_kayboard_volume_up"> Tombol: VOLUME UP </string >
+	<string name = "cit_keyboard_back"> Tombol: BACK </string >
+	<string name = "cit_keyboard_current"> Keyboard saat ini:% s </string >
+	<string name = "cit_keyboard_menu"> Tombol: MENU </string >
+	<string name = "cit_keyboard_test_summary"> Saat Anda menekan tombol, teks terkait di layar akan berubah menjadi hijau (catatan: tombol Mulai dan Daya tidak termasuk dalam pengujian). </string >
+	<string name = "cit_keyboard_test_title"> Tombol </string >
+	<string name = "cit_label"> Tes perangkat keras </string >
+	<string name = "cit_lcdlight_brightness"> Lampu latar </string >
+	<string name = "cit_lcdlight_brightness_max"> MAX </string >
+	<string name = "cit_lcdlight_brightness_min"> MIN </string >
+	<string name = "cit_led_check_charge_light"> muatan led </string >
+	<string name = "cit_led_check_first_flash_light"> flash led pertama </string >
+	<string name = "cit_led_check_second_flash_light"> flash led kedua </string >
+	<string name = "cit_leds_check_summary"> Lampu latar, lampu notifikasi, dan lampu flash (belakang) akan merespons saat tombol terkait ditekan. </string >
+	<string name = "cit_leds_check_title"> Lampu pemberitahuan (LED) </string >
+	<string name = "cit_light_sensor_check_summary"> Nilai DAC akan muncul berikutnya, uji sensor cahaya </string >
+	<string name = "cit_light_sensor_check_title"> Sensor cahaya </string >
+	<string name = "cit_magnetic_sensor_check_summary"> Nilai untuk koordinat X, Y, Z, harus muncul di bawah </string >
+	<string name = "cit_magnetic_sensor_check_title"> Sensor magnet </string >
+	<string name = "cit_main_camera_check_summary"> "Instruksi tes:
+
+1. Ketuk tombol kamera di bawah untuk masuk ke antarmuka kamera belakang
+2. Sentuh tombol rana
+3. Sistem akan menyimpan foto secara otomatis setelah pengambilan.
+4. Foto yang Anda ambil akan muncul di layar. Sentuh Setujui untuk menyelesaikan pengujian. "</string >
+	<string name = "cit_main_camera_check_title"> Kamera belakang </string >
+	<string name = "cit_name"> Pengujian perangkat keras </string >
+	<string name = "cit_nfc_check_summary"> "Klik tombol untuk memulai NFC, lalu letakkan kartu di atas bagian belakang ponsel.
+Jangan matikan layar selama pengujian "</string >
+	<string name = "cit_nfc_check_tip"> letakkan kartu di bagian belakang ponsel </string >
+	<string name = "cit_nfc_check_title"> Uji NFC </string >
+	<string name = "cit_nfc_sim_check_summary"> Harap konfirmasi status yang benar dan informasi kartu SIM NFC ditampilkan di bawah, hanya dua kartu SIM NFC yang ada secara bersamaan dan status yang benar dapat lewat </string >
+	<string name = "cit_no_sim_check_summary"> Konfirmasikan bahwa ponsel tidak memiliki kartu SIM. </string >
+	<string name = "cit_no_sim_check_title"> Tanpa kartu SIM </string >
+	<string name = "cit_not_available"> "Tes ini tidak tersedia dalam versi MIUI ini" </string >
+	<string name = "cit_notificationlight"> LED Pemberitahuan </string >
+	<string name = "cit_notificationlight_off"> Lampu pemberitahuan mati </string >
+	<string name = "cit_notificationlight_on"> Lampu pemberitahuan menyala </string >
+	<string name = "cit_otg_not_supported"> "Perangkat ini tidak mendukung pengujian OTG" </string >
+	<string name = "cit_pass"> Lulus </string >
+	<string name = "cit_play_sd_mp3_hifi_summary"> "Harap konfirmasi bahwa ada file bernama \" music.mp3 \ "yang disimpan di kartu SD. File \" music.mp3 \ "harus diputar melalui jalur HIFI perangkat saat Anda membukanya tes. "</string >
+	<string name = "cit_play_sd_mp3_hifi_title"> Memutar MP3 (HIFI) yang disimpan di kartu SD </string >
+	<string name = "cit_play_sd_mp3_summary"> "Harap konfirmasi bahwa ada file bernama \" music.mp3 \ "yang disimpan di kartu SD. File \" music.mp3 \ "harus diputar melalui speaker eksternal perangkat saat Anda membukanya tes. "</string >
+	<string name = "cit_play_sd_mp3_title"> Memutar MP3 yang disimpan di kartu SD </string >
+	<string name = "cit_playing_sd_mp3"> Memutar musik.mp3… </string >
+	<string name = "cit_pointer_location_title"> Sensor sentuh </string >
+	<string name = "cit_power_check_summary"> Jumlah daya baterai harus dinyatakan sebagai persentase di bawah. </string >
+	<string name = "cit_power_check_title"> Indikator baterai </string >
+	<string name = "cit_pressure_sensor_check_summary"> Nilai tekanan akan muncul di bawah </string >
+	<string name = "cit_pressure_sensor_check_title"> Sensor tekanan </string >
+	<string name = "cit_proximity_data_check_summary"> "Sensor jarak inframerah: Tutupi sensor jarak ponsel dengan tangan Anda lalu letakkan sensor jarak.
+ Sensor jarak ultrasonik - mensimulasikan mengangkat telepon untuk menjawab panggilan 
+Jika area pengujian yang lebih rendah menunjukkan nilai 0,0 saat mendekati dan nilai 5,0 menunjukkan jika jauh, berarti pengujian berhasil; jika tidak, pengujian akan gagal. "</string >
+	<string name = "cit_proximity_sensor_check_summary"> "Tutupi sensor jarak (terletak di bagian atas ponsel dekat penerima) dengan tangan Anda, lalu lepaskan. Nilainya akan meningkat sebesar 0.0 saat Anda menjauhkan tangan dari perangkat.
+Saat mengkalibrasi, pastikan tidak ada apa pun di antara sensor dan tangan Anda (misalnya, penutup layar pelindung atau sarung tangan). "</string >
+	<string name = "cit_proximity_sensor_check_title"> Sensor jarak </string >
+	<string name = "cit_proximity_us_sensitivity"> Sensitivitas: </string >
+	<string name = "cit_proximity_us_summary"> Kalibrasi sensor jarak ultrasound </string >
+	<string name = "cit_rear_dual_camera_check_title"> Kamera Bokeh </string >
+	<string name = "cit_rear_dual_second_camera_check_title"> Kamera Bokeh2 </string >
+	<string name = "cit_rear_dual_third_camera_check_title"> Kamera Bokeh3 </string >
+	<string name = "cit_rear_sub_camera_check_summary"> "Instruksi tes:
+
+1. Ketuk tombol kamera di bawah untuk masuk ke antarmuka kamera sekunder belakang
+2. Ketuk tombol rana
+3. Sistem akan menyimpan foto secara otomatis setelah pengambilan
+4. Foto yang Anda ambil akan ditampilkan di layar, ketuk Setuju untuk menyelesaikan tes. "</string >
+	<string name = "cit_rear_sub_camera_check_title"> Sub kamera belakang </string >
+	<string name = "cit_recovery_signature_failed"> tanda tangan pemulihan GAGAL </string >
+	<string name = "cit_recovery_signature_passed"> tanda tangan pemulihan DISETUJUI </string >
+	<string name = "cit_reset_check_summary"> Tes ini akan melakukan boot ulang perangkat. Semua data dari pengujian sebelumnya akan hilang. </string >
+	<string name = "cit_reset_check_title"> Tes boot ulang </string >
+	<string name = "cit_reset_ese_summary"> Setel ulang eSE, semua kartu bank dan transfer NFC Anda akan dihapus. </string >
+	<string name = "cit_reset_test"> Uji </string >
+	<string name = "cit_rgb_check_blue_light"> RGB biru </string >
+	<string name = "cit_rgb_check_green_light"> RGB hijau </string >
+	<string name = "cit_rgb_check_red_light"> RGB merah </string >
+	<string name = "cit_sar_get_status_title"> DAPATKAN NILAI DARI DSI </string >
+	<string name = "cit_sar_sensor_check_summary"> Nilai untuk saluran sensor sar akan muncul di bawah, tutup tombol telepon, jika data berubah, fungsinya baik, hati-hati untuk tidak memegang perangkat dan menjaga kebersihan bagian bawah ponsel. </string >
+	<string name = "cit_sar_setting_config_title"> SETELAN UJI SAR </string >
+	<string name = "cit_sd_fail"> Terjadi kesalahan. </string >
+	<string name = "cit_sd_mount"> Pasang SD </string >
+	<string name = "cit_sd_mount_sucess"> Kartu SD terpasang </string >
+	<string name = "cit_sd_mp3_not_existed"> "Tidak ada file di kartu SD bernama \" music.mp3 \ "
+Setelah menempatkan \ "music.mp3 \" di direktori kartu SD, sentuh layar untuk memutar. "</string >
+	<string name = "cit_sd_plugged_in"> Kartu SD terdeteksi, lepaskan kartu SD sekarang </string >
+	<string name = "cit_sd_plugged_out"> Kartu SD dicabut, harap masukkan kartu SD sekarang </string >
+	<string name = "cit_sd_plugin_check_summary"> Teks \ "Kartu SD terdeteksi, lepaskan kartu SD sekarang \" akan muncul di bawah. </string >
+	<string name = "cit_sd_plugin_check_title"> Kartu SD (deteksi) </string >
+	<string name = "cit_sd_plugout_check_summary"> Saat Anda melepaskan kartu SD, teks \ "Kartu SD telah dihapus, masukkan kartu SD sekarang \" akan muncul di bawah. </string >
+	<string name = "cit_sd_plugout_check_title"> Kartu SD (penghapusan) </string >
+	<string name = "cit_sd_unmount"> Lepaskan kartu SD </string >
+	<string name = "cit_sd_unmount_sucess"> Kartu SD dilepas </string >
+	<string name = "cit_signature_check_label"> verifikasi tanda tangan: </string >
+	<string name = "cit_sim_check_summary"> Harap konfirmasi status yang benar dan informasi kartu SIM ditampilkan di bawah, jika Anda memiliki dua slot SIM, hanya dua kartu SIM yang ada secara bersamaan dan status yang benar dapat lewat </string >
+	<string name = "cit_sim_check_title"> Kartu SIM </string >
+	<string name = "cit_sim_error_unknown"> Tidak diketahui </string >
+	<string name = "cit_sim_network_operator"> Penyedia layanan jaringan: </string >
+	<string name = "cit_sim_network_operator_name"> Nama penyedia layanan jaringan: </string >
+	<string name = "cit_sim_network_type"> Jenis jaringan: </string >
+	<string name = "cit_sim_serial_number"> Nomor kartu SIM: </string >
+	<string name = "cit_sim_sim_country"> Negara: </string >
+	<string name = "cit_sim_sim_operator"> Nomor operator kartu SIM: </string >
+	<string name = "cit_sim_sim_operator_name"> Nama operator: </string >
+	<string name = "cit_sim_state_absent"> Kartu SIM tidak terdeteksi </string >
+	<string name = "cit_sim_state_network_locked"> PIN Jaringan diblokir </string >
+	<string name = "cit_sim_state_pin_required"> PIN diperlukan </string >
+	<string name = "cit_sim_state_puk_required"> PUK diperlukan </string >
+	<string name = "cit_sim_state_ready"> Kartu SIM siap </string >
+	<string name = "cit_sim_state_unkown"> Tidak diketahui </string >
+	<string name = "cit_slider_hall_miui_test_summary"> Jalankan operasi ponsel geser ke atas dan ke bawah secara penuh. </string >
+	<string name = "cit_slider_hall_test_summary"> Jalankan operasi ponsel geser ke atas dan ke bawah secara penuh. </string >
+	<string name = "cit_start_calibration"> Kalibrasi </string >
+	<string name = "cit_stop_calibration"> Hentikan kalibrasi </string >
+	<string name = "cit_tfcard_no_support"> Kartu TF tidak didukung pada perangkat ini. </string >
+	<string name = "cit_tfcard_support"> Kartu TF kompatibel dengan perangkat ini. </string >
+	<string name = "cit_tfcard_support_summary"> Periksa apakah TFCard kompatibel dengan perangkat ini </string >
+	<string name = "cit_tfcard_support_title"> Dukungan TFCard </string >
+	<string name = "cit_tof_sensor_check_summary"> Nilai TOF akan muncul di bawah </string >
+	<string name = "cit_tof_sensor_check_title"> TofSensor </string >
+	<string name = "cit_tool"> Alat tambahan </string >
+	<string name = "cit_tool_asdiv_ant_pos_setting"> setel posisi semut </string >
+	<string name = "cit_tool_asdiv_get_result_band_title"> Band semut saat ini </string >
+	<string name = "cit_tool_asdiv_get_result_carrier_title"> Sel pembawa semut saat ini </string >
+	<string name = "cit_tool_asdiv_get_result_sub_title"> Sub saat ini </string >
+	<string name = "cit_tool_asdiv_get_result_tech_title"> Teknologi semut saat ini </string >
+	<string name = "cit_tool_asdiv_get_result_title"> Posisi semut saat ini </string >
+	<string name = "cit_tool_asdiv_get_status"> Dapatkan status </string >
+	<string name = "cit_tool_asdiv_set_status"> Setel status </string >
+	<string name = "cit_tool_asdiv_title"> SETTING ASDIV </string >
+	<string name = "cit_tool_bluetooth"> alat uji bluetooth </string >
+	<string name = "cit_tool_bluetooth_br_tx_msg"> Masuk ke mode uji Bluetooth BR / EDR TX: </string >
+	<string name = "cit_tool_bluetooth_dut"> Masuk ke mode pengujian Bluetooth </string >
+	<string name = "cit_tool_bluetooth_enhanced"> Masukkan pengujian Bluetooth yang ditingkatkan </string >
+	<string name = "cit_tool_bluetooth_le_enhanced_run"> RUN </string >
+	<string name = "cit_tool_bluetooth_le_enhanced_run_trigger"> Pemicu </string >
+	<string name = "cit_tool_bluetooth_le_power_run"> JALANKAN </string >
+	<string name = "cit_tool_bluetooth_le_rx_4x"> RX: BLE 4.x </string >
+	<string name = "cit_tool_bluetooth_le_rx_4x_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_le_rx_50"> RX: BLE 5.0 </string >
+	<string name = "cit_tool_bluetooth_le_rx_50_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch0"> Masuk ke Bluetooth LE 2.402GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch1"> Masuk ke Bluetooth LE 2.404GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch10"> Masuk ke mode uji Bluetooth LE 2.422GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch11"> Masuk ke mode uji Bluetooth LE 2.424GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch12"> Masuk ke mode uji Bluetooth LE 2.426GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch13"> Masuk ke mode uji Bluetooth LE 2.428GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch14"> Masuk ke mode uji Bluetooth LE 2.430GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch15"> Masuk ke mode uji Bluetooth LE 2.432GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch16"> Masuk ke mode uji Bluetooth LE 2.434GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch17"> Masuk ke mode uji Bluetooth LE 2.436GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch18"> Masuk ke mode uji Bluetooth LE 2.438GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch19"> Masuk ke mode uji Bluetooth LE 2.440GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch2"> Masuk ke Bluetooth LE 2.406GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch20"> Masuk ke mode uji Bluetooth LE 2.442GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch21"> Masuk ke mode pengujian Bluetooth LE 2.444GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch22"> Masuk ke Bluetooth LE 2.446GHz Freq RX test mode </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch23"> Masuk ke mode uji Bluetooth LE 2.448GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch24"> Masuk ke mode uji Bluetooth LE 2.450GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch25"> Masukkan Bluetooth LE 2.452GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch26"> Masuk ke mode uji Bluetooth LE 2.454GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch27"> Masukkan Bluetooth LE 2.456GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch28"> Masuk ke mode uji Bluetooth LE 2.458GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch29"> Masuk ke mode uji Bluetooth LE 2.460GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch3"> Masuk ke Bluetooth LE 2.408GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch30"> Masukkan Bluetooth LE 2.462GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch31"> Masuk ke mode uji Bluetooth LE 2.464GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch32"> Masuk ke Bluetooth LE 2.466GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch33"> Masuk ke mode uji Bluetooth LE 2.468GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch34"> Masuk ke mode uji Bluetooth LE 2.470GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch35"> Masuk ke mode uji Bluetooth LE 2.472GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch36"> Masuk ke mode uji Bluetooth LE 2.474GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch37"> Masukkan Bluetooth LE 2.476GHz Freq mode uji RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch38"> Masuk ke mode uji Bluetooth LE 2.478GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch39"> Masuk ke mode uji Bluetooth LE 2.480GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch4"> Masuk ke mode uji Bluetooth LE 2.410GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch5"> Masuk ke mode uji Bluetooth LE 2.412GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch6"> Masuk ke mode uji Bluetooth LE 2.414GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch7"> Masuk ke mode uji Bluetooth LE 2.416GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch8"> Masuk ke mode uji Bluetooth LE 2.418GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_ch9"> Masuk ke mode uji Bluetooth LE 2.420GHz Freq RX </string >
+	<string name = "cit_tool_bluetooth_le_rx_msg"> Masuk ke mode uji Bluetooth LE 5.0 RX: </string >
+	<string name = "cit_tool_bluetooth_le_rx_msg_old"> Masuk ke mode uji Bluetooth LE 4.x RX: </string >
+	<string name = "cit_tool_bluetooth_le_rx_num"> paket rx num: </string >
+	<string name = "cit_tool_bluetooth_le_tx_4x"> TX: BLE 4.x </string >
+	<string name = "cit_tool_bluetooth_le_tx_4x_antenna"> antena: </string >
+	<string name = "cit_tool_bluetooth_le_tx_4x_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_le_tx_4x_payload"> muatan: </string >
+	<string name = "cit_tool_bluetooth_le_tx_50_antenna"> antena: </string >
+	<string name = "cit_tool_bluetooth_le_tx_50_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_le_tx_50_payload"> payload: </string >
+	<string name = "cit_tool_bluetooth_le_tx_antenna"> antena: </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch0"> Masukkan Bluetooth LE 2.402GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch1"> Masuk ke Bluetooth LE 2.404GHz Mode uji TX Frek </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch10"> Masuk ke mode tes Bluetooth LE 2.422GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch11"> Masuk ke mode tes Bluetooth LE 2.424GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch12"> Masuk ke mode tes Bluetooth LE 2.426GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch13"> Masuk ke mode tes Bluetooth LE 2.428GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch14"> Masuk ke mode tes Bluetooth LE 2.430GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch15"> Masuk ke mode tes Bluetooth LE 2.432GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch16"> Masuk ke mode tes Bluetooth LE 2.434GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch17"> Masuk ke mode tes Bluetooth LE 2.436GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch18"> Masuk ke mode tes Bluetooth LE 2.438GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch19"> Masuk ke mode tes Bluetooth LE 2.440GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch2"> Masukkan Bluetooth LE 2.406GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch20"> Masukkan Bluetooth LE 2.442GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch21"> Masuk ke Bluetooth LE 2.444GHz Mode uji TX Frek </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch22"> Masukkan Bluetooth LE 2.446GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch23"> Masuk ke mode tes Bluetooth LE 2.448GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch24"> Masuk ke mode tes Bluetooth LE 2.450GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch25"> Masukkan Bluetooth LE 2.452GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch26"> Masuk ke mode pengujian Bluetooth LE 2.454GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch27"> Masuk ke mode uji Bluetooth LE 2.456GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch28"> Masuk ke mode pengujian Bluetooth LE 2.458GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch29"> Masuk ke mode tes Bluetooth LE 2.460GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch3"> Masuk ke mode uji Bluetooth LE 2.408GHz Frek TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch30"> Masuk ke mode pengujian Bluetooth LE 2.462GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch31"> Masuk ke mode tes Bluetooth LE 2.464GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch32"> Masukkan Bluetooth LE 2.466GHz Freq TX test mode </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch33"> Masuk ke mode tes Bluetooth LE 2.468GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch34"> Masuk ke mode tes Bluetooth LE 2.470GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch35"> Masuk ke mode uji Bluetooth LE 2.472GHz Frek TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch36"> Masuk ke mode pengujian Bluetooth LE 2.474GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch37"> Masuk ke mode pengujian Bluetooth LE 2.476GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch38"> Masuk ke mode pengujian Bluetooth LE 2.478GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch39"> Masuk ke mode tes Bluetooth LE 2.480GHz Frek TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch4"> Masuk ke mode tes Bluetooth LE 2.410GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch5"> Masuk ke mode tes Bluetooth LE 2.412GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch6"> Masuk ke mode tes Bluetooth LE 2.414GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch7"> Masuk ke mode tes Bluetooth LE 2.416GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch8"> Masuk ke mode tes Bluetooth LE 2.418GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_ch9"> Masuk ke mode tes Bluetooth LE 2.420GHz Freq TX </string >
+	<string name = "cit_tool_bluetooth_le_tx_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_le_tx_msg"> Masuk ke mode pengujian Bluetooth LE 5.0 TX: </string >
+	<string name = "cit_tool_bluetooth_le_tx_msg_old"> Masuk ke mode tes Bluetooth LE 4.x TX: </string >
+	<string name = "cit_tool_bluetooth_le_tx_power"> "LE: TX Pwr" </string >
+	<string name = "cit_tool_bluetooth_le_tx_power_level"> Pwr / Lv: </string >
+	<string name = "cit_tool_bluetooth_le_tx_power_msg"> Masuk ke mode uji daya Bluetooth BLE TX: </string >
+	<string name = "cit_tool_bluetooth_le_tx_type"> PHY: </string >
+	<string name = "cit_tool_bluetooth_not_on"> Bluetooth TIDAK diaktifkan </string >
+	<string name = "cit_tool_bluetooth_off"> Nonaktifkan Bluetooth </string >
+	<string name = "cit_tool_bluetooth_on"> Aktifkan Bluetooth </string >
+	<string name = "cit_tool_bluetooth_rse"> Masuk ke mode pengujian Bluetooth RSE </string >
+	<string name = "cit_tool_bluetooth_rse_chain"> antena: </string >
+	<string name = "cit_tool_bluetooth_rse_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_tx_burst"> TX: BR / EDR </string >
+	<string name = "cit_tool_bluetooth_tx_burst_run"> JALANKAN </string >
+	<string name = "cit_tool_bluetooth_tx_chain"> antena: </string >
+	<string name = "cit_tool_bluetooth_tx_channel"> saluran: </string >
+	<string name = "cit_tool_bluetooth_tx_level"> Pwr / Lv: </string >
+	<string name = "cit_tool_bluetooth_tx_power"> Pwr / dBm: </string >
+	<string name = "cit_tool_bluetooth_tx_rse_run"> JALANKAN </string >
+	<string name = "cit_tool_bluetooth_tx_type"> BR0 / EDR1: </string >
+	<string name = "cit_tool_cal_accelerometer"> Alat Kalibrasi Acc </string >
+	<string name = "cit_tool_cal_camera"> Alat kalibrasi kamera </string >
+	<string name = "cit_tool_cal_gyroscope"> alat kalibrasi giro </string >
+	<string name = "cit_tool_check_cal"> batal </string >
+	<string name = "cit_tool_check_ok"> terima </string >
+	<string name = "cit_tool_check_opt"> Tentu saja? </string >
+	<string name = "cit_tool_check_opt_with_reboot"> akan melakukan boot ulang, ya? </string >
+	<string name = "cit_tool_current_modem_test_mode"> Mode pengujian saat ini: </string >
+	<string name = "cit_tool_drx_only"> DRX </string >
+	<string name = "cit_tool_enable_3A_log"> Aktifkan sakelar log 3A </string >
+	<string name = "cit_tool_enable_display_3A_log"> Aktifkan 3A tampilan log </string >
+	<string name = "cit_tool_exit_modem_mbn"> Pulihkan ke MBN otomatis </string >
+	<string name = "cit_tool_getting_expired"> Kedaluwarsa ! </string >
+	<string name = "cit_tool_getting_wait"> Berhasil ! Harap tunggu </string >
+	<string name = "cit_tool_log"> Dapatkan log </string >
+	<string name = "cit_tool_log_bugreport"> Buat laporan bug </string >
+	<string name = "cit_tool_log_dmesg"> DMESG </string >
+	<string name = "cit_tool_log_file_not_exist " >% s tidak ada </string >
+	<string name = "cit_tool_log_generate_bugreport"> Membuat laporan bug ... </string >
+	<string name = "cit_tool_log_kmsg"> Log kernel terakhir </string >
+	<string name = "cit_tool_log_logcat"> ADB log </string >
+	<string name = "cit_tool_log_modem"> Log modem </string >
+	<string name = "cit_tool_log_no_sdcard"> Masukkan kartu SD sekarang </string >
+	<string name = "cit_tool_log_ril"> RIL record </string >
+	<string name = "cit_tool_log_toast"> Log disimpan di% s </string >
+	<string name = "cit_tool_log_toast_generate_bugreport"> Buat laporan bug… (ini membutuhkan waktu sekitar 1 menit) </string >
+	<string name = "cit_tool_mbn_default_notfiy"> MBN default </string >
+	<string name = "cit_tool_mbn_no_default_notfiy"> Tidak ada MBN default </string >
+	<string name = "cit_tool_mbn_opt_help"> "Petunjuk pengoperasian:
+1. Langkah-langkah untuk mengaktifkan MBN:
+Langkah 1: Pilih slot MBN yang akan diaktifkan, yang biasanya memuat dua kartu, dan defaultnya adalah kartu ganda.
+Langkah 2: Anda perlu memilih nama MBN untuk mengaktifkannya. MBN yang umum digunakan adalah prefabrikasi dalam daftar drop-down. Jika Anda tidak dapat menemukannya, Anda dapat memasukkan kata kunci dari nama MBN yang akan diaktifkan di kotak pencarian untuk menemukan MBN yang perlu Anda aktifkan.
+Langkah 3: Klik tombol Activate untuk memuat MBN yang dipilih.
+2. MBN default dari sistem pemulihan dapat dicapai dengan mengklik tombol Pulihkan MBN Default.
+3. Dapat menampilkan informasi MBN yang dimuat di Modem saat ini.
+Baris pertama menunjukkan apakah MBN yang dimuat oleh modem saat ini adalah MBN default sistem. (Beberapa produk mungkin tidak diintegrasikan ke dalam antarmuka yang sesuai, baris ini akan menampilkan: Tidak didukung)
+Baris kedua menunjukkan nama dan nomor versi MBN default dan MBN operator yang saat ini dimuat di modem. MBN yang dimuat khusus kami adalah MBN Operator, SUB0 adalah kartu 1, SUB1 adalah kartu 2. "</string >
+	<string name = "cit_tool_mbn_path_select_hit"> pilih jalur lengkap mbn: </string >
+	<string name = "cit_tool_mbn_path_select_notice"> tidak ditemukan di atas? Cari di sini? Mengenai mcfg, ct, eps ... dll </string >
+	<string name = "cit_tool_mbn_recovery_default"> MBN default pemulihan </string >
+	<string name = "cit_tool_modem"> Alat uji MODEM </string >
+	<string name = "cit_tool_modem_bugreport"> Paksa MODEM Coredump </string >
+	<string name = "cit_tool_modem_clear_empty"> hapus </string >
+	<string name = "cit_tool_modem_deactive_mbn"> tidak aktif </string >
+	<string name = "cit_tool_modem_exit_ftm"> Keluar dari mode FTM </string >
+	<string name = "cit_tool_modem_feature_config_cust"> konfigurasi faeture saat ini sebagai berikut </string >
+	<string name = "cit_tool_modem_feature_config_default"> konfigurasi faeture default saat ini </string >
+	<string name = "cit_tool_modem_mbn"> Ubah pengaturan modem </string >
+	<string name = "cit_tool_modem_mbn_config_load_and_active"> Alat pemuatan dan aktivasi konfigurasi MBN </string >
+	<string name = "cit_tool_modem_mbn_opt_fail_notfiy"> opt gagal, restart telepon untuk mencoba lagi </string >
+	<string name = "cit_tool_modem_offline_log"> Buka / tutup log offline </string >
+	<string name = "cit_tool_modem_rf_ant_test"> Konfigurasi pengujian rf modem </string >
+	<string name = "cit_tool_modem_test_clr"> setel nilai default dari tag </string >
+	<string name = "cit_tool_modem_test_device_value_set"> ubah status perangkat </string >
+	<string name = "cit_tool_modem_test_get"> perbarui </string >
+	<string name = "cit_tool_modem_test_mode"> Konfigurasi mode pengujian modem </string >
+	<string name = "cit_tool_modem_test_mode_closed"> mode pengujian ditutup </string >
+	<string name = "cit_tool_modem_test_mode_mismatch"> mode uji tidak cocok </string >
+	<string name = "cit_tool_modem_test_mode_opened"> mode pengujian terbuka </string >
+	<string name = "cit_tool_modem_test_mode_select"> Pilih mode pengujian: </string >
+	<string name = "cit_tool_modem_test_mode_set"> Validasi konfigurasi </string >
+	<string name = "cit_tool_modem_test_set"> validasi </string >
+	<string name = "cit_tool_modem_test_will_set"> akan membuka mode pengujian dan memulai ulang tugas </string >
+	<string name = "cit_tool_nfc"> Alat uji NFC </string >
+	<string name = "cit_tool_nfc_st"> Nfc ST: </string >
+	<string name = "cit_tool_nfc_st_run"> jalankan </string >
+	<string name = "cit_tool_nfc_st_stop"> Berhenti </string >
+	<string name = "cit_tool_no_repeat"> Tidak ada pengulangan! </string >
+	<string name = "cit_tool_not_support"> Tidak didukung </string >
+	<string name = "cit_tool_opt_fail_info_notify"> Gagal memilih, perlu mereboot ponsel untuk mode offline. </string >
+	<string name = "cit_tool_prx_drx_select_mode"> Pilih mode: </string >
+	<string name = "cit_tool_prx_drx_select_rat"> Pilih RAT: </string >
+	<string name = "cit_tool_prx_drx_start_test"> Mulai pengujian </string >
+	<string name = "cit_tool_prx_drx_stop_test"> Hentikan pengujian </string >
+	<string name = "cit_tool_rf_ant"> Alat RF / Antena </string >
+	<string name = "cit_tool_sar_test_tool_title"> ALAT UJI SAR </string >
+	<string name = "cit_tool_select_all"> Pilih semua </string >
+	<string name = "cit_tool_select_none"> Pilih Tidak Ada </string >
+	<string name = "cit_tool_select_opposite"> Pilih berlawanan </string >
+	<string name = "cit_tool_setting_expired"> Konfigurasi sudah tidak berlaku, coba lagi. </string >
+	<string name = "cit_tool_setting_wait"> Sesuaikan! Harap tunggu </string >
+	<string name = "cit_tool_splash_test_title"> Uji percikan </string >
+	<string name = "cit_tool_switch_autosms"> Mengaktifkan / menonaktifkan AutoSMSReg </string >
+	<string name = "cit_tool_to_fetching"> cari </string >
+	<string name = "cit_tool_wifi"> Alat uji WLAN </string >
+	<string name = "cit_tool_wifi_exit"> Keluar </string >
+	<string name = "cit_tool_wifi_rx_chan"> Rx: saluran </string >
+	<string name = "cit_tool_wifi_rx_count_error"> Nilai keluaran bukan angka </string >
+	<string name = "cit_tool_wifi_rx_error"> Terjadi kesalahan saat menjalankan program. </string >
+	<string name = "cit_tool_wifi_rx_exit"> Rx: keluar </string >
+	<string name = "cit_tool_wifi_rx_run"> jalankan </string >
+	<string name = "cit_tool_wifi_rx_stop"> Berhenti </string >
+	<string name = "cit_tool_wifi_rxbg_test_channel"> saluran: </string >
+	<string name = "cit_tool_wifi_rxn_test_bw"> bandwidth: </string >
+	<string name = "cit_tool_wifi_rxn_test_channel"> saluran: </string >
+	<string name = "cit_tool_wifi_sniffer"> Alat Sniffer WLAN </string >
+	<string name = "cit_tool_wifi_sniffer_settings"> Setelan sniffer </string >
+	<string name = "cit_tool_wifi_tx_ax_gI"> Interval penjaga: </string >
+	<string name = "cit_tool_wifi_tx_bg_chan"> saluran: </string >
+	<string name = "cit_tool_wifi_tx_bg_txrt"> kecepatan data: </string >
+	<string name = "cit_tool_wifi_tx_n_bandwidth"> bandwidth: </string >
+	<string name = "cit_tool_wifi_tx_n_chan"> saluran: </string >
+	<string name = "cit_tool_wifi_tx_n_txrt"> data rate: MCS </string >
+	<string name = "cit_tool_wifi_tx_st_chan"> saluran: </string >
+	<string name = "cit_tool_wifi_txrx_chain_selection"> Pilih antena </string >
+	<string name = "cit_torch_modify"> Ubah lampu flash </string >
+	<string name = "cit_torch_off"> Matikan lampu flash </string >
+	<string name = "cit_torch_on"> Nyalakan lampu flash </string >
+	<string name = "cit_touch_calib_fail"> Ketuk Kalibrasi gagal, coba lagi </string >
+	<string name = "cit_touch_calib_instruction"> mulai kalibrasi </string >
+	<string name = "cit_touch_calib_pass"> Ketuk Kartu kalibrasi, gunakan biasanya </string >
+	<string name = "cit_touch_calib_summary"> Langkah selanjutnya adalah melakukan kalibrasi sentuh, tekan tombol konfirmasi dan jangan sentuh layar setelahnya, tunggu petunjuk sukses kalibrasi </string >
+	<string name = "cit_touch_calib_title"> Kalibrasi sentuh </string >
+	<string name = "cit_touch_panel_test_title"> Sensor sentuh </string >
+	<string name = "cit_ultra_camera_check_title"> Kamera ultra </string >
+	<string name = "cit_usb_OTG_error_condition"> "Perangkat USB telah terhubung, tetapi tidak bisa mendapatkan informasi perangkat
+tes gagal! "</string >
+	<string name = "cit_usb_OTG_in"> Perangkat USB_OTG telah terhubung, silakan hubungkan dan hubungkan kembali </string >
+	<string name = "cit_usb_OTG_in_charge"> Perangkat USB OTG terdeteksi </string >
+	<string name = "cit_usb_OTG_out"> Perangkat USB_OTG telah dicabut, silakan balikkan steker </string >
+	<string name = "cit_usb_OTG_plug_in_start_test"> Hubungkan perangkat USB_OTG dan mulai pengujian </string >
+	<string name = "cit_usb_OTG_plug_out_test_complete"> USB_OTG telah terputus, pengujian selesai </string >
+	<string name = "cit_usb_OTG_plug_re_plugin"> Tes USB_OTG selesai, tidak perlu tes ulang </string >
+	<string name = "cit_usb_charger_in"> Isi daya lewat (USB) </string >
+	<string name = "cit_usb_charger_out"> Pengisi daya terputus </string >
+	<string name = "cit_version_check_summary"> Berikut ini adalah informasi versi untuk sistem operasi. Konfirmasikan bahwa informasi yang disorot dengan warna hijau sudah benar. </string >
+	<string name = "cit_version_check_title"> Lihat informasi versi </string >
+	<string name = "cit_vga_camera_cameraid_fail"> Kesalahan: cameraid no config </string >
+	<string name = "cit_vga_camera_cameralist_fail"> Kesalahan: juru kamera tidak cocok </string >
+	<string name = "cit_vga_camera_capture"> Kamera </string >
+	<string name = "cit_vga_camera_capture_fail"> Foto tidak dapat diambil </string >
+	<string name = "cit_vga_camera_delete"> Hapus </string >
+	<string name = "cit_vga_camera_deleted"> Foto dihapus </string >
+	<string name = "cit_vibrator_check_summary"> Lihat apakah getaran (panjang dan pendek) berfungsi normal </string >
+	<string name = "cit_vibrator_check_title"> Getaran </string >
+	<string name = "cit_vibrator_don_don_chat"> Jangan-Ngobrol </string >
+	<string name = "cit_vibrator_haptic"> Haptic </string >
+	<string name = "cit_vibrator_load_down_pattern"> Pola bawah </string >
+	<string name = "cit_vibrator_load_up_pattern"> Buat pola </string >
+	<string name = "cit_vibrator_long"> Getaran panjang </string >
+	<string name = "cit_vibrator_play_touch_pattern"> Getaran </string >
+	<string name = "cit_vibrator_short"> Getaran pendek </string >
+	<string name = "cit_vibrator_show_advanced"> Tampilkan opsi lanjutan </string >
+	<string name = "cit_voc_data_check_title"> Sensor data COV </string >
+	<string name = "cit_voc_data_humidity"> Kelembaban </string >
+	<string name = "cit_voc_data_pressure"> Tekanan </string >
+	<string name = "cit_voc_data_sensor_check_summary"> VOC, suhu, kelembaban, nilai tekanan akan muncul di bawah </string >
+	<string name = "cit_voc_data_temperature"> Suhu </string >
+	<string name = "cit_wifi_address_check_summary"> Berikut ini adalah alamat jaringan WLAN yang saat ini terhubung dengan ponsel. Konfirmasikan bahwa informasi yang disorot dengan warna hijau sudah benar. </string >
+	<string name = "cit_wifi_address_check_title"> alamat WLAN </string >
+	<string name = "cit_wifi_address_error"> "Tidak bisa mendapatkan alamat WLAN. Pastikan WLAN diaktifkan." </string >
+	<string name = "cit_wifi_ap_scan_check_summary"> Berikut ini adalah informasi WLAN AP untuk perangkat di area yang ditemukan. Konfirmasikan bahwa informasi yang disorot dengan warna hijau sudah benar. </string >
+	<string name = "cit_wifi_ap_scan_check_title"> Pemindaian AP WLAN </string >
+	<string name = "cit_wifi_ap_scan_retry"> Memindai lagi ... </string >
+	<string name = "cit_wifi_ap_scanning"> Memindai… </string >
+	<string name = "cit_wifi_fail_to_scan"> "Tidak dapat mencari jaringan" </string >
+	<string name = "cit_wifi_state_refresh"> Segarkan </string >
+	<string name = "cit_x_tele_camera_check_title"> Kamera Tele5X </string >
+	<string name = "cit_yellow_torch_on"> Nyalakan lampu flash kuning </string >
+	<string name = "close_third_color_led"> tutup led tiga warna </string >
+	<string name = "continue_vibrator"> Lanjutkan vibrator </string >
+	<string name = "copyright"> Hak Cipta © 2015 Goodix Semua hak dilindungi undang-undang. </string >
+	<string name = "current_angle"> Sudut saat ini: </string >
+	<string name = "delete"> Hapus </string >
+	<string name = "display_test_finish"> Uji layar selesai </string >
+	<string name = "dsi_sar_on_off_tips"> Tombol hidup / mati Dsi Sar </string >
+	<string name = "error"> error </string >
+	<string name = "error_app_internal"> Kesalahan aplikasi internal </string >
+	<string name = "error_app_unsupported"> Format tidak didukung </string >
+	<string name = "error_failed_to_get_data"> tidak bisa mendapatkan data </string >
+	<string name = "error_file_not_found"> tidak dapat menemukan data </string >
+	<string name = "error_getting_sensor_info"> Kesalahan mendapatkan informasi sensor </string >
+	<string name = "error_initializing_sensor"> Kesalahan menginisialisasi sensor:% 1 $ s </string >
+	<string name = "error_sdcard_access"> Tidak dapat mengakses ruang sistem! </string >
+	<string name = "error_unknown_error"> Kesalahan tidak dikenal </string >
+	<string name = "fail"> Gagal </string >
+	<string name = "failed_to_test"> JANGAN MENGUJI </string >
+	<string name = "fingerprint"> Sidik jari: </string >
+	<string name = "fingerprint_input_title"> uji masukan sidik jari </string >
+	<string name = "firstplug_mic_check_record_tip"> Hentikan perekaman, setelah menghubungkan headphone, konfirmasi hasilnya </string >
+	<string name = "fod_check_start_error"> "Tidak dapat memulai program pemeriksaan sensor
+Uji gagal! "</string >
+	<string name = "fod_check_summary"> "Petunjuk pengujian:
+Tes otomatis berdasarkan jenis sensor
+Dasarkan hasil tes dengan mengklik tombol lulus atau fial "</string >
+	<string name = "fod_check_title"> Memeriksa sensor sidik jari </string >
+	<string name = "fod_check_unknown_sensor_type"> "Jenis sensor umpan tidak diketahui
+tes gagal! "</string >
+	<string name = "fod_fingerprint_input_description"> Uji masukan sidik jari Fod </string >
+	<string name = "fod_fingerprint_input_title"> Uji masukan sidik jari Fod </string >
+	<string name = "fod_pressure_sensor_pressure_data_collection"> Pengumpulan data tekanan ... </string >
+	<string name = "fod_pressure_sensor_test_exception"> Pengecualian dari file node baca </string >
+	<string name = "fod_pressure_sensor_test_fail"> Tes gagal, klik tombol Gagal </string >
+	<string name = "fod_pressure_sensor_test_pressure_too_big"> "Tekanan sensor rata-rata terlalu besar:% 1 $ d
+tes gagal, klik tombol Gagal "</string >
+	<string name = "fod_pressure_sensor_test_pressure_too_small"> "Tekanan sensor rata-rata terlalu kecil:% 1 $ d
+tes gagal, klik tombol Gagal "</string >
+	<string name = "fod_pressure_sensor_test_success"> "Tekanan sensor rata-rata:% 1 $ d
+tes berhasil, klik pada tombol Lulus "</string >
+	<string name = "fod_pressure_sensor_test_summary"> "Masukkan bobotnya
+posisi yang ditentukan "</string >
+	<string name = "fod_pressure_sensor_test_title"> Uji sensor tekanan makanan </string >
+	<string name = "fp_fod_calibration"> kalibrasi sidik jari fod </string >
+	<string name = "fpc_app_name"> Alat uji sensor </string >
+	<string name = "fpc_pn_calibration"> Tangkap dan simpan gambar PN </string >
+	<string name = "front_mic_check_record_tip"> Merekam, ucapkan sesuatu ke MIC di bagian depan ponsel </string >
+	<string name = "get_DSI_result"> hasil DSI </string >
+	<string name = "get_sensor_info"> DAPATKAN INFORMASI SENSOR </string >
+	<string name = "get_template_finger"> Ekstrak gambar: dapatkan jari dari template </string >
+	<string name = "gpu_maxfreq_title"> Mode GPU Overfreq untuk Eksperimental </string >
+	<string name = "headset_key"> Tombol headphone </string >
+	<string name = "headset_key_tip"> Anda harus menguji tombol headset sebelum melanjutkan ke tes berikutnya </string >
+	<string name = "headset_plug_check_tip"> Sekarang putar kaset, dengarkan headphone, keluarkan saat pengujian. </string >
+	<string name = "headset_plug_record_tip"> mulai merekam </string >
+	<string name = "headset_press"> Tekan </string >
+	<string name = "headset_record"> Merekam, katakan sesuatu ke headphone dan rekaman akan berhenti dalam 3 detik. </string >
+	<string name = "headset_test"> Ini akan menguji penyisipan dan pelepasan headset, mikrofon headset dan tombol headset, dan semua pengujian akan berhasil. </string >
+	<string name = "headset_unplug_check_tip"> Harap masukkan headset </string >
+	<string name = "headset_unplug_tip"> Harap masukkan headset </string >
+	<string name = "hello_world"> Hello World! </string >
+	<string name = "hint"> Ini bisa memakan waktu lama, harap tunggu dengan sabar. </string >
+	<string name = "image_quality_test"> UJI KUALITAS GAMBAR </string >
+	<string name = "info"> Informasi </string >
+	<string name = "init"> menginisialisasi </string >
+	<string name = "interphone_oper_result"> Hasil ditampilkan di sini </string >
+	<string name = "interphone_test"> Tes interphone </string >
+	<string name = "interphone_test_set_409_mhz"> Setel 409M HZ </string >
+	<string name = "interphone_test_set_430_mhz"> Setel 430M HZ </string >
+	<string name = "interphone_test_switch_to_receive_mode"> Alihkan ke mode terima </string >
+	<string name = "interphone_test_switch_to_transmit_mode"> Alihkan ke mode kirim </string >
+	<string name = "interval_vibrator"> Vibrator interval </string >
+	<string name = "intro_message"> Contoh ini menunjukkan penggunaan dasar Camera2 API. Periksa kode sumber untuk melihat bagaimana Anda dapat menampilkan pratinjau kamera dan mengambil gambar. </string >
+	<string name = "ir_camera_led_test_description"> Uji LED lampu terstruktur </string >
+	<string name = "ir_camera_led_test_summary"> "Instruksi tes:
+
+1. Ketuk tombol Pratinjau di bawah untuk masuk ke antarmuka kamera
+2. Item berikut akan menyala secara acak. Pilih status lampu saat ini. "</string >
+	<string name = "ir_camera_led_test_title"> Tes LED Cahaya Terstruktur </string >
+	<string name = "ir_camera_test_description"> Uji kamera inframerah </string >
+	<string name = "ir_camera_test_summary_capture"> "Instruksi tes:
+
+1. Tekan tombol kamera di bawah untuk masuk ke antarmuka kamera Go
+2. Sentuh tombol rana
+3. Sistem akan menyimpan foto secara otomatis setelah pengambilan.
+4. Foto yang Anda ambil akan muncul di layar. Sentuh Setujui untuk menyelesaikan pengujian. "</string >
+	<string name = "ir_camera_test_summary_preview"> "Petunjuk pengujian:
+
+1. Ketuk tombol Pratinjau di bawah untuk masuk ke antarmuka kamera
+2. Tunggu akhir pratinjau, kembali otomatis. "</string >
+	<string name = "ir_camera_test_title"> Uji kamera inframerah </string >
+	<string name = "keyboard"> KEY </string >
+	<string name = "keyboard_vibrator_test"> Tes keyboard </string >
+	<string name = "keyboard_vibrator_test_old"> Uji keyboard dan getaran </string >
+	<string name = "keys_times"> Waktu kunci: </string >
+	<string name = "lastTestResult"> Hasil tes terakhir: </string >
+	<string name = "last_time_test_result"> HASIL UJI TERAKHIR </string >
+	<string name = "launcher_d5x_sar_summary"> Data output dari setiap saluran sensor SAR ditampilkan di bawah ini. Balikkan telepon ke perangkat kalibrasi Sar, klik Start Calibration, tampilkan kalibrasi PASS, lalu tunjukkan normal. Harap dicatat bahwa sekolah tepat waktu dan tangan tidak berada di dekat ponsel. </string >
+	<string name = "lcminfo"> Informasi LCM </string >
+	<string name = "led_tip_txt"> Item berikut akan menyala secara acak. Pilih status cahaya saat ini </string >
+	<string name = "magnetic_info_hint"> Putar perangkat dalam bentuk 8 </string >
+	<string name = "main_mic_check_record_tip"> Merekam, ucapkan sesuatu ke MIC di bagian utama ponsel </string >
+	<string name = "mic1_spk_loop"> Loop ucapan mikrofon </string >
+	<string name = "mic_check_rm_headset_tip"> Pertama-tama lepas headphone dan rekam suaranya. </string >
+	<string name = "mic_tip"> Buat suara di MIC. Setelah menghubungkan headset, dengarkan headset untuk mendengar suara. </string >
+	<string name = "mic_volume_height_tip"> UJI VOLUME MIC BERLALU </string >
+	<string name = "mic_volume_low_tip"> Uji volume MIC gagal. Buat suara yang lebih keras saat merekam </string >
+	<string name = "micphone_test"> MIC ＆ SPK </string >
+	<string name = "motor_calibration"> Kalibrasi motor </string >
+	<string name = "mtb_tool_modem_cdma_manager"> pengelola batas CDMA </string >
+	<string name = "navigation_drawer_close"> Tutup panel navigasi </string >
+	<string name = "navigation_drawer_open"> Buka panel navigasi </string >
+	<string name = "next"> Berikutnya </string >
+	<string name = "next_step"> Langkah berikutnya </string >
+	<string name = "nfc_disable_tip"> Nyalakan fungsi NFC </string >
+	<string name = "no"> Tidak </string >
+	<string name = "no_vibrator"> Tanpa vibrator </string >
+	<string name = "noise"> kebisingan: </string >
+	<string name = "none"> N / A </string >
+	<string name = "ok"> Terima </string >
+	<string name = "open_third_color_led"> LED terbuka tiga warna </string >
+	<string name = "pass"> Lulus </string >
+	<string name = "phone_not_been_restarted"> Ponsel tidak melakukan boot ulang </string >
+	<string name = "picture"> Gambar </string >
+	<string name = "plugout_and_reverse_plugin"> "
+Cabut pengisi daya dan pasang mundur. "</string >
+	<string name = "pop_camera"> Kamera pop </string >
+	<string name = "pop_push_camera_test_summary"> "Klik tombol kamera popup untuk melihat apakah kamera muncul
+Klik tombol kamera untuk melihat apakah kamera memasukkan "</string >
+	<string name = "pop_push_camera_test_title"> Tes kamera pop-up dan tekan </string >
+	<string name = "product_list"> Daftar produk </string >
+	<string name = "push_camera"> Dorong kamera </string >
+	<string name = "radio_boy"> Suara pria </string >
+	<string name = "radio_chinese"> China </string >
+	<string name = "radio_configuration_set"> setel konfigurasi radio </string >
+	<string name = "radio_english"> Inggris </string >
+	<string name = "radio_gril"> Suara wanita </string >
+	<string name = "radio_info_asdiv_switch_label"> Status ASDiv: </string >
+	<string name = "radio_info_call_status_label"> Status panggilan suara: </string >
+	<string name = "radio_info_cellinfo_label"> Semua informasi pengukuran sel: </string >
+	<string name = "radio_info_current_network_label"> Jaringan saat ini: </string >
+	<string name = "radio_info_data_connected"> Terhubung </string >
+	<string name = "radio_info_data_connecting"> Menghubungkan </string >
+	<string name = "radio_info_data_disconnected"> Terputus </string >
+	<string name = "radio_info_data_network_type_label"> Jenis jaringan data: </string >
+	<string name = "radio_info_data_suspended"> Ditangguhkan </string >
+	<string name = "radio_info_entry"> Informasi jaringan seluler </string >
+	<string name = "radio_info_gprs_service_label"> Layanan data: </string >
+	<string name = "radio_info_gsm_service_label"> Layanan suara: </string >
+	<string name = "radio_info_ne Neighboring_location_label"> Informasi sel tetangga: </string >
+	<string name = "radio_info_phone_number_label"> Nomor telepon: </string >
+	<string name = "radio_info_phone_offhook"> Panggilan sedang berlangsung </string >
+	<string name = "radio_info_phone_ringing"> Sonar </string >
+	<string name = "radio_info_radio_power"> Daya radio seluler </string >
+	<string name = "radio_info_roaming_in"> Roaming </string >
+	<string name = "radio_info_roaming_label"> Roaming: </string >
+	<string name = "radio_info_roaming_not"> Tanpa roaming </string >
+	<string name = "radio_info_service_emergency"> Hanya panggilan darurat </string >
+	<string name = "radio_info_service_in"> Dalam layanan </string >
+	<string name = "radio_info_service_off"> Sinyal seluler dinonaktifkan </string >
+	<string name = "radio_info_service_out"> Tidak berfungsi </string >
+	<string name = "radio_info_set_perferred_label"> Setel jenis jaringan yang disukai: </string >
+	<string name = "radio_info_signal_location_label"> Informasi lokasi sel: </string >
+	<string name = "radio_info_signal_strength_label"> Kekuatan sinyal: </string >
+	<string name = "radio_info_sim_status"> Status SIM: </string >
+	<string name = "radio_info_unknown"> Tidak diketahui </string >
+	<string name = "radio_info_voice_network_type_label"> Jenis jaringan suara: </string >
+	<string name = "radio_no"> Saya tidak bisa mendengar </string >
+	<string name = "rat_config_setting"> RATA </string >
+	<string name = "reboot_times"> Waktu boot ulang: </string >
+	<string name = "receiver_off"> Penerima mati </string >
+	<string name = "receiver_on"> Penerima di </string >
+	<string name = "receiver_on_off_tips"> Sakelar hidup / mati penerima </string >
+	<string name = "refresh_number_of_keys"> perbarui jumlah kunci </string >
+	<string name = "removeFingerprint"> Hapus sidik jari </string >
+	<string name = "remove_headset_and_starttest"> Lepaskan headphone Anda dan tekan mulai untuk menguji </string >
+	<string name = "request_permission"> Sampel ini membutuhkan izin dari kamera. </string >
+	<string name = "resetpixel_test"> SETEL ULANG PENGUJIAN PIXEL </string >
+	<string name = "run"> jalankan </string >
+	<string name = "sample_data"> Contoh data </string >
+	<string name = "sample_hint"> ekstrak% 1 $ s sampel untuk satu jari </string >
+	<string name = "sample_progress_hint"> tunggu ekstraksi data sampel </string >
+	<string name = "sar_authentation_test_title"> Uji otentikasi Sar </string >
+	<string name = "sar_off"> Sar Off </string >
+	<string name = "sar_on"> Sar di </string >
+	<string name = "sar_sensor_calibrate"> Mulai kalibrasi </string >
+	<string name = "sar_sensor_calibrate_fail"> Kesalahan kalibrasi sensor Sar </string >
+	<string name = "sar_sensor_calibrate_success"> Sensor Sar mengkalibrasi dengan benar </string >
+	<string name = "sar_sensor_collect_data"> Mulai mengumpulkan data </string >
+	<string name = "sar_sensor_collect_data_test_summary"> "Putar ponsel untuk memastikan sudut waktu nyata berada di antara 130 dan 140 derajat
+Jauhkan tangan lainnya dari ponsel. Klik pada tombol mulai akuisisi data
+Setelah berhasil dikalibrasi, perhatikan bahwa nilai absolut CS0i dan CS1 kurang dari 200 dan nilai CS1 lebih dari 300. Setelah lima kali berturut-turut, sisi lain dekat dengan bagian bawah ponsel, nilai CS0 disorot dengan tombol setelah 3 kali berturut-turut antara 3000 dan 30000, tombol langkah disorot "</string >
+	<string name = "sar_sensor_collect_test_summary"> "Balikkan ponsel, letakkan di perangkat
+Klik tombol Mulai Akuisisi Data
+Kontrol perangkat dekat dan jauh dari ponsel "</string >
+	<string name = "sar_sensor_data_check_description"> Mengumpulkan data dari sensor Sar </string >
+	<string name = "sar_sensor_data_check_summary"> "Pegang bagian atas ponsel dengan satu tangan
+Pastikan sudut waktu nyata sekitar 45 derajat
+Jauhkan tangan lainnya dari telepon
+Perhatikan nilai CS0
+Setelah nilai CS0 kurang dari 500 dan nilai CS2 lebih besar dari 10000 
+Pegang tangan lainnya di dekat bagian bawah ponsel
+Perhatikan nilai CS0
+Nilai CS0 berkisar antara 3000 hingga 30000, tombol langkah disorot "</string >
+	<string name = "sar_sensor_data_check_summary_1"> "Pegang bagian atas ponsel dengan satu tangan
+Pastikan sudut waktu nyata sekitar 45 derajat
+Jauhkan tangan lainnya dari telepon
+Perhatikan nilai CS0
+Setelah nilai CS0 kurang dari 500 dan nilai CS2 lebih besar dari 5000 
+Pegang tangan lainnya di dekat bagian bawah ponsel
+Perhatikan nilai CS0
+Nilai CS0 berkisar antara 3000 hingga 30000, tombol langkah disorot "</string >
+	<string name = "sar_sensor_set"> setel sensor sar </string >
+	<string name = "sar_sensor_setting"> status sensor sar </string >
+	<string name = "sar_sensor_test_description"> Kalibrasi sensor Sar dan pengumpulan data </string >
+	<string name = "sar_sensor_test_err_angle"> Ponsel tidak diposisikan pada sudut yang benar </string >
+	<string name = "sar_sensor_test_next_step"> Periksa deflektor di dekat ponsel </string >
+	<string name = "sar_sensor_test_success"> Uji sensor Sar berhasil </string >
+	<string name = "sar_sensor_test_summary"> "Balikkan ponsel, letakkan di perangkat
+Klik tombol Mulai Kalibrasi
+Setelah kalibrasi berhasil, periksa perangkat dekat dan jauh dari ponsel "</string >
+	<string name = "sar_sensor_test_timeout"> Batas waktu pengujian sensor Sar </string >
+	<string name = "screen_cancel"> Nonaktifkan </string >
+	<string name = "screen_confirm"> Nyalakan </string >
+	<string name = "search_menu_title"> Telusuri </string >
+	<string name = "select"> Pilih </string >
+	<string name = "select_all"> Pilih semua </string >
+	<string name = "select_automatic"> Pilih Otomatis </string >
+	<string name = "select_manual"> Pilih manual </string >
+	<string name = "select_none"> Pilih Tidak Ada </string >
+	<string name = "selftest"> AUTOTEST </string >
+	<string name = "sensor_information"> Informasi sensor </string >
+	<string name = "set_dsi_tips"> Setel DSI </string >
+	<string name = "show_log"> Tampilkan log </string >
+	<string name = "speak_from_mic"> Berbicara dengan MIC, pemutaran speaker. Tentukan apakah ada suara. </string >
+	<string name = "start"> Mulai </string >
+	<string name = "start_extract_sample"> mulai mengekstrak sampel </string >
+	<string name = "start_extract_template"> mulai mengekstrak template </string >
+	<string name = "start_far"> Start FAR </string >
+	<string name = "start_frr"> Mulai FRR </string >
+	<string name = "status"> Status </string >
+	<string name = "status_failed"> Satu atau lebih pengujian gagal </string >
+	<string name = "status_passed"> Disetujui </string >
+	<string name = "status_running"> Jalankan </string >
+	<string name = "status_text"> Status: </string >
+	<string name = "success_extract_sample"> selesai mengekstrak data sampel </string >
+	<string name = "success_extract_template"> selesai mengekstrak data template </string >
+	<string name = "success_get_finger_data"> Ekstrak gambar: berhasil mendapatkan data dari jari </string >
+	<string name = "success_to_test"> TEST SUCCESS </string >
+	<string name = "temperature"> suhu </string >
+	<string name = "template_data"> data template </string >
+	<string name = "template_hint"> ekstrak% 1 $ s template untuk satu jari </string >
+	<string name = "template_progress_hint"> tunggu untuk mengekstrak data template </string >
+	<string name = "test_back_mic"> Mikrofon belakang </string >
+	<string name = "test_cases"> Kasus uji </string >
+	<string name = "test_front_mic"> Mikrofon depan </string >
+	<string name = "test_headset"> Tes headphone </string >
+	<string name = "test_main_mic"> MIC utama </string >
+	<string name = "test_receiver"> Penerima </string >
+	<string name = "test_receiver_summary"> "Anda akan mendengar dua angka acak
+Klik pada tombol yang sesuai sesuai dengan nomor yang Anda dengar "</string >
+	<string name = "test_result"> HASIL UJI </string >
+	<string name = "test_speaker"> speaker </string >
+	<string name = "test_speaker_summary"> "Anda akan mendengar dua angka acak
+Klik pada tombol yang sesuai sesuai dengan nomor yang Anda dengar "</string >
+	<string name = "test_spi_chip_id"> ID Chip: </string >
+	<string name = "test_top_mic"> MIC atas </string >
+	<string name = "testagain"> Anda dapat menekan tombol MULAI untuk menguji lagi </string >
+	<string name = "testing"> AutoTest berjalan ... </string >
+	<string name = "tips_not_placed_right_angle"> Ponsel tidak diletakkan pada sudut yang benar </string >
+	<string name = "tips_show_calibrate_result"> Tampilkan kalibrasi resutl </string >
+	<string name = "tips_show_current_angle"> Tampilkan sudut saat ini </string >
+	<string name = "tips_show_current_sar_sensor_data"> Tampilkan data sensor saat ini </string >
+	<string name = "title_about"> tentang </string >
+	<string name = "title_algo_performance"> kinerja sesuatu </string >
+	<string name = "title_bad_point"> titik buruk </string >
+	<string name = "title_extract_data"> Ekstrak data </string >
+	<string name = "title_farr"> Uji FAR dan FRR </string >
+	<string name = "title_open_short_pixel"> piksel pendek terbuka </string >
+	<string name = "top_mic_check_record_tip"> Merekam, ucapkan sesuatu ke MIC di atas ponsel </string >
+	<string name = "touch_auto"> Uji mandiri panel sentuh sedang berlangsung, harap tunggu ... </string >
+	<string name = "touch_sefl_fail"> Pengujian gagal </string >
+	<string name = "touch_self"> Jangan sentuh layar selama pengujian ... </string >
+	<string name = "touch_self_suc"> Pengujian berhasil </string >
+	<string name = "tp_color"> Warna TP: </string >
+	<string name = "tp_rawdate"> TP Rawdata (ITO) </string >
+	<string name = "tp_rawdate_summery"> Uji TP Rawdata (ITO), jangan sentuh layar selama pengujian </string >
+	<string name = "tp_version"> Versi TP: </string >
+	<string name = "transmitter_receiver_confirm"> Apakah Anda mendengar suaranya? </string >
+	<string name = "tx_max_power_result"> TX POWER </string >
+	<string name = "unlock"> Buka kunci </string >
+	<string name = "unplug_headset"> Lepaskan headphone. </string >
+	<string name = "Verified_boot_lock"> Blokir </string >
+	<string name = "Verified_boot_unlock"> Buka kunci </string >
+	<string name = "verifikasi"> Verifikasi </string >
+	<string name = "vibrator_change"> Pilih mode vibrator </string >
+	<string name = "vibrator_test"> Uji vibrator </string >
+	<string name = "vibrator_test_summary"> " Vibrator panjang atau pendek terjadi secara acak dalam pengujian
+Pilih tombol yang benar sesuai dengan kondisi getaran yang berbeda "</string >
+	<string name = "wait_test"> menunggu pengujian </string >
+	<string name = "waiting"> Menunggu 4s. </string >
+	<string name = "yes"> Ya </string >
+</resources >

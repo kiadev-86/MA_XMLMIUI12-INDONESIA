@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name = "app_name"> Pemasang sertifikat </string>
+	<string name = "pick_file_title"> Pilih sertifikat </string>
+	<string name = "pkcs12_password_dialog_title"> Ekstrak sertifikat </string>
+	<string name = "extracting_pkcs12"> Mengekstrak… </string>
+	<string name = "pkcs12_file_password_dialog_title"> Ekstrak dari% s </string>
+	<string name = "name_credential_dialog_title"> Nama sertifikat </string>
+	<string name = "credential_name"> Nama sertifikat: </string>
+	<string name = "credential_password"> Masukkan sandi untuk mengekstrak sertifikat. </string>
+	<string name = "credential_info"> Paket berisi: </string>
+	<string name = "p12_description"> Sertifikat di keystore PKCS12. </string>
+	<string name = "one_userkey"> kunci pengguna </string>
+	<string name = "one_usercrt"> sertifikat pengguna </string>
+	<string name = "one_cacrt"> sertifikat CA </string>
+	<string name = "n_cacrts " >% d sertifikat CA </string>
+	<string name = "password_error"> Harap masukkan kata sandi yang benar. </string>
+	<string name = "password_empty_error"> Masukkan kata sandi. </string>
+	<string name = "name_empty_error"> Harap masukkan nama. </string>
+	<string name = "name_char_error"> Tulis nama yang hanya berisi huruf dan angka. </string>
+	<string name = "could_to_save_cert"> Sertifikat tidak dapat disimpan. Penyimpanan kredensial tidak diaktifkan atau berhasil dimulai. </string>
+	<string name = "cert_not_saved"> Sertifikat tidak dipasang. </string>
+	<string name = "no_cert_to_saved"> Anda belum bersertifikat untuk menginstal. </string>
+	<string name = "invalid_cert"> Sertifikat tidak valid. </string>
+	<string name = "cert_is_added " >% s diinstal. </string>
+	<string name = "cert_too_large_error"> Penginstalan tidak dapat dilakukan karena sertifikat terlalu besar. </string>
+	<string name = "cert_missing_error"> Penginstalan tidak dapat dilakukan karena file sertifikat tidak dapat ditemukan. </string>
+	<string name = "cert_read_error"> Instalasi tidak dapat dilakukan karena file sertifikat tidak dapat dibaca. </string>
+	<string name = "no_cert_file_found"> File sertifikat tidak ditemukan di kartu SD. </string>
+	<string name = "sdcard_not_present"> Kartu SD tidak dimasukkan. </string>
+	<string name = "only_primary_user_allowed"> Hanya pemilik perangkat ini yang dapat memasang sertifikat. </string>
+	<string name = "credential_usage_label"> Penggunaan kredensial: </string>
+	<string name = "wifi_title"> Profil Wi-Fi </string>
+	<string name = "wifi_detail_title " >% s detail </string>
+	<string name = "wifi_detail_label"> Detail </string>
+	<string name = "wifi_install_label"> Pasang </string>
+	<string name = "wifi_installing_label"> Memasang </string>
+	<string name = "wifi_cancel_label"> Batal </string>
+	<string name = "wifi_dismiss_label"> Abaikan </string>
+	<string name = "wifi_no_config"> Tidak ada </string>
+	<string name = "wifi_config_text"> "Nama: %1$ s
+FQDN: %2$ s
+Konsorsium Roaming: %3$ s
+Alam: %4$ s
+Metode otentikasi: EAP- %5$ s
+"</string>
+	<string name = "wifi_ttls_config_text"> "Nama pengguna:% s
+"</string>
+	<string name = "wifi_tls_config_text"> "Sertifikat klien:
+%1$ s
+Sandi: %2$ s
+"</string>
+	<string name = "wifi_sim_config_text"> "SIM: % s
+"</string>
+	<string name = "wifi_trust_config_text"> "Sertifikat tepercaya:
+% s
+"</string>
+	<string name = "install_done_title"> Kredensial terpasang </string>
+	<string name = "install_done"> Menambahkan% 1$ s kredensial ke jaringan Wi-Fi yang disimpan. </string>
+	<string name = "done_label"> SELESAI </string>
+	<string name = "wifi_installer_detail"> Pasang kredensial Wi-Fi untuk menyambung ke jaringan yang tersedia menggunakan% 1$ s. </string>
+	<string name = "wifi_installer_download_error"> File yang diunduh bermasalah dan tidak dapat dipasang. Pastikan Anda telah mendownload file dari sumber yang benar. </string>
+	<string name = "wifi_installer_fail"> Tidak dapat memasang kredensial Wi-Fi. Silakan coba mengunduh file lagi. </string>
+	<string name = "wifi_installer_fail_no_wifi_title"> Pemasangan dibatalkan </string>
+	<string name = "wifi_installer_fail_title"> Tidak dapat menginstal </string>
+	<string name = "wifi_installer_fail_no_wifi"> Harap aktifkan Wi-Fi dan coba lagi. </string>
+	</resources >
