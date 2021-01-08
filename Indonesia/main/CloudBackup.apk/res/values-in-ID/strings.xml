@@ -38,13 +38,13 @@
     <string name = "back_up_task_unfinished " > Pencadangan tidak selesai </string >
     <string name = "backing_up_to_micloud " > Mencadangkan… </string >
     <string name = "backup_fail_wifi_needed " > Pencadangan gagal, perlu Wi-Fi. </string >
-    <string name = "backup_failed_reason_cloud_space_not_enough " > Tidak cukup ruang di Xiaomi Cloud. Tingkatkan paket Anda atau kosongkan ruang penyimpanan. </ String >
-    <string name = "backup_failed_reason_disk_space_not_enough " > Ruang penyimpanan tidak cukup. Kosongkan ruang terlebih dahulu. </ String >
-    <string name = "backup_failed_reason_network_error " > Kesalahan jaringan. Tunggu satu atau dua menit dan coba lagi. </ String >
+    <string name = "backup_failed_reason_cloud_space_not_enough " > Tidak cukup ruang di Xiaomi Cloud. Tingkatkan paket Anda atau kosongkan ruang penyimpanan. </string >
+    <string name = "backup_failed_reason_disk_space_not_enough " > Ruang penyimpanan tidak cukup. Kosongkan ruang terlebih dahulu. </string >
+    <string name = "backup_failed_reason_network_error " > Kesalahan jaringan. Tunggu satu atau dua menit dan coba lagi. </string >
     <string name = "backup_finished_notification_content " > Aplikasi desktop, pengaturan sistem, dll. telah dicadangkan. </string >
     <string name = "backup_now " > Buat cadangan sekarang </string >
     <string name = "backup_size " > Ukuran:% s </string >
-    <string name = "backup_stopped_msg " > Cadangan saat ini akan menghapus cadangan sebelumnya. Klik untuk melihat. </ String >
+    <string name = "backup_stopped_msg " > Cadangan saat ini akan menghapus cadangan sebelumnya. Klik untuk melihat. </string >
     <string name = "backup_stopped_title " > Pencadangan dijeda </string >
     <string name = "backup_success " > Pencadangan berhasil </string >
     <string name = "backup_successfully " > Pencadangan selesai </string >
@@ -65,7 +65,7 @@
     <string name = "can_not_backup_in_lite_mode " > Tidak dapat mencadangkan dalam mode Ringan </string >
     <string name = "can_not_restore_in_lite_mode " > Tidak dapat memulihkan dalam mode Ringan </string >
     <string name = "cancel_backup " > Membatalkan cadangan… </string >
-    <string name = "cancel_recover_settings " > & lt; u & gt; Batalkan & lt; / u & gt; </string >
+    <string name = "cancel_recover_settings " > &lt; u &gt; Batalkan &lt; / u &gt; </string >
     <string name = "cancel_restore_home " > Membatalkan… </string >
     <string name = "click_try_to_restore_again " > Ketuk untuk mencoba lagi </string >
     <string name = "cloud_app_backup_success " > Aplikasi berhasil didukung </string >
@@ -86,7 +86,7 @@
 * Pengaturan waktu, alarm dan jam
 * Pengaturan pemberitahuan
 * Pengaturan sistem dan MIUI
-Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Cloud. "</ String >
+Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Cloud. "</string >
     <string name = "cloud_back_up_frequence_choice_title " > Jadwalkan pencadangan </string >
     <string name = "cloud_back_up_frequence_long " > Setiap 7 hari </string >
     <string name = "cloud_back_up_frequence_short " > Setiap hari </string >
@@ -112,9 +112,9 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "cloud_backup_in_cancel " > Batal </string >
     <string name = "cloud_backup_in_process " > Membuat salinan ... </string >
     <string name = "cloud_backup_select_recover " > Pilih cadangan Xiaomi Cloud </string >
-    <string name = "cloud_restore_from_other_device " > Berhenti memulihkan% s dan hapus cadangan ini? Tindakan tidak dapat dibatalkan. </ String >
+    <string name = "cloud_restore_from_other_device " > Berhenti memulihkan% s dan hapus cadangan ini? Tindakan tidak dapat dibatalkan. </string >
     <string name = "cloud_restore_task " > Memulihkan… </string >
-    <string name = "cloud_task_in_process " > Hentikan% s dan hapus cadangan ini? Tindakan tidak dapat dibatalkan. </ String >
+    <string name = "cloud_task_in_process " > Hentikan% s dan hapus cadangan ini? Tindakan tidak dapat dibatalkan. </string >
     <string name = "confirm_cancel_restore_negative " > Batal </string >
     <string name = "confirm_cancel_restore_positive " > Lanjutkan </string >
     <string name = "confirm_cancel_restore_title " > Batalkan pemulihan? </string >
@@ -122,7 +122,7 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "confirm_restore_summary " > Layar Beranda akan dimulai ulang dan aplikasi akan diunduh secara otomatis saat terhubung ke jaringan Wi-Fi </string >
     <string name = "confirm_restore_title " > Pulihkan </string >
     <string name = "copy " > Salin </string >
-    <string name = "customization " > & lt; u & gt; Sesuaikan & lt; / u & gt; </string >
+    <string name = "customization " > &lt; u &gt; Sesuaikan &lt; / u &gt; </string >
     <string name = "date_format " > HH: mm: dd hh-MM-yyyy </string >
     <string name = "deskclock_backup " > Alarm </string >
     <string name = "desktop_downloading " > Mengunduh </string >
@@ -141,7 +141,7 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "dialog_cancel_backup_confirm " > OK </string >
     <string name = "dialog_cancel_backup_msg " > Mengalihkan sakelar akan menghentikan pencadangan yang sedang berlangsung. </string >
     <string name = "dialog_cancel_backup_title " > Batalkan pencadangan yang sedang berlangsung? </string >
-    <string name = "dialog_msg_overwrite_backup " > Pencadangan lokal berbeda dari yang dilakukan di Xiaomi Cloud. Jika Anda melanjutkan, salinan saat ini akan menghapus salinan sebelumnya. </ String >
+    <string name = "dialog_msg_overwrite_backup " > Pencadangan lokal berbeda dari yang dilakukan di Xiaomi Cloud. Jika Anda melanjutkan, salinan saat ini akan menghapus salinan sebelumnya. </string >
     <string name = "dialog_msg_restore_require_wlan " > Memulihkan cadangan membutuhkan koneksi ke Wi-Fi. </string >
     <string name = "dialog_title_require_wlan " > Hubungkan ke Wi-Fi </string >
     <string name = "dir_date_format " > HHmmss_ddMMyyyy </string >
@@ -181,11 +181,11 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "miuix_sbl_tracking_progress_labe_up_none " > "Itu saja untuk saat ini" </string >
     <string name = "miuix_sbl_tracking_progress_labe_up_refresh " > Tunggu sebentar ... </string >
     <string name = "miuix_sbl_tracking_progress_labe_up_refresh_fail " > "Tidak dapat memuat item" </string >
-    <string name = "msg_alert_cancel_restore " > Memulihkan item. Berhenti sekarang? </ String >
+    <string name = "msg_alert_cancel_restore " > Memulihkan item. Berhenti sekarang? </string >
     <string name = "msg_alert_restore_error " > Terjadi kesalahan saat memulihkan cadangan cloud, harap coba lagi. </string >
-    <string name = "msg_restore_start_with_metered_network " > "Layar Beranda Anda akan diluncurkan kembali. Aplikasi yang disalin akan diunduh secara otomatis. & lt; br / & gt; & lt; b & gt; & lt; font color = 'red' & gt; % s file akan diunduh . & lt; / font & gt; & lt; / b & gt; "</string >
+    <string name = "msg_restore_start_with_metered_network " > "Layar Beranda Anda akan diluncurkan kembali. Aplikasi yang disalin akan diunduh secara otomatis. &lt; br / &gt; &lt; b &gt; &lt; font color = 'red' &gt; % s file akan diunduh . &lt; / font &gt; &lt; / b &gt; "</string >
     <string name = "msg_restore_with_metered_network_hint " > Jika Anda melanjutkan untuk memulihkan item ini, data seluler akan digunakan untuk mendownload. </string >
-    <string name = "msg_restore_with_metered_network_pattern " > " & lt; font color = 'red' & gt; & lt; b & gt; % s & lt; / b & gt; & lt; / font & gt; file akan diunduh." </string >
+    <string name = "msg_restore_with_metered_network_pattern " > " &lt; font color = 'red' &gt; &lt; b &gt; % s &lt; / b &gt; &lt; / font &gt; file akan diunduh." </string >
     <string name = "name_model " > "% 2 $ s% 1 $ s" </string >
     <string name = "network_error " > Hubungkan ke jaringan </string >
     <string name = "no_account " > Anda belum masuk ke Akun Saya. </string >
@@ -202,11 +202,11 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "preference_copied " > \ "% 1 $ s \" disalin ke papan klip. </string >
     <string name = "process_whole_recovery " > Memulihkan \ "% s \" </string >
     <string name = "provision_background_restore_more_data " > Pulihkan item latar belakang lainnya </string >
-    <string name = "provision_error_connect_msg " > Harap uji jaringan dan coba lagi. Cadangan tidak tersedia saat perangkat Anda offline. </ String >
+    <string name = "provision_error_connect_msg " > Harap uji jaringan dan coba lagi. Cadangan tidak tersedia saat perangkat Anda offline. </string >
     <string name = "provision_error_connect_title " > Tidak dapat terhubung </string >
     <string name = "provision_restore_data " > Memulihkan item </string >
-    <string name = "query_restore_description " > Pulihkan pengaturan Layar Beranda dan aplikasi dengan cadangan ini. Ini akan menimpa data aplikasi yang sudah diinstal di perangkat. Aplikasi yang tidak termasuk dalam cadangan akan dipindahkan ke Layar Utama terakhir. </ String >
-    <string name = "query_restore_summary " > Cadangan Xiaomi Cloud telah ditemukan untuk perangkat ini. Pulihkan pengaturan dan aplikasi Layar Utama atau lanjutkan sebagai perangkat baru dan hapus cadangan lama? </ String >
+    <string name = "query_restore_description " > Pulihkan pengaturan Layar Beranda dan aplikasi dengan cadangan ini. Ini akan menimpa data aplikasi yang sudah diinstal di perangkat. Aplikasi yang tidak termasuk dalam cadangan akan dipindahkan ke Layar Utama terakhir. </string >
+    <string name = "query_restore_summary " > Cadangan Xiaomi Cloud telah ditemukan untuk perangkat ini. Pulihkan pengaturan dan aplikasi Layar Utama atau lanjutkan sebagai perangkat baru dan hapus cadangan lama? </string >
     <string name = "recover_from_micloud " > Pulihkan dari cadangan Xiaomi Cloud </string >
     <string name = "recover_home_settings " > Pulihkan Pengaturan Layar Utama </string >
     <string name = "recover_miui_settings " > Pulihkan Pengaturan Sistem </string >
@@ -220,7 +220,7 @@ Catatan: Data aplikasi yang telah Anda instal tidak akan disimpan di Xiaomi Clou
     <string name = "restore_app_order_loading " > Tunggu ... </string >
     <string name = "restore_app_order_retry " > Silakan coba lagi </string >
     <string name = "restore_app_order_retry_desc " > "Tidak dapat terhubung ke jaringan.
-Harap periksa setelan jaringan Anda dan coba lagi. "</ String >
+Harap periksa setelan jaringan Anda dan coba lagi. "</string >
     <string name = "restore_app_order_search_hint " > Telusuri item untuk menyetel prioritas </string >
     <string name = "restore_app_order_search_installed " > Aplikasi di perangkat ini </string >
     <string name = "restore_app_order_search_normal " > Aplikasi prioritas reguler </string >
@@ -233,8 +233,8 @@ Harap periksa setelan jaringan Anda dan coba lagi. "</ String >
     <string name = "restore_detail_category_settings " > Pengaturan </string >
     <string name = "restore_detail_more " > Lainnya </string >
     <string name = "restore_detail_title " > Pilih item untuk dipulihkan </string >
-    <string name = "restore_failed_reason_disk_space_not_enough " > Ruang penyimpanan tidak cukup. Kosongkan ruang terlebih dahulu. </ String >
-    <string name = "restore_failed_reason_network_error " > Kesalahan jaringan. Tunggu satu atau dua menit dan coba lagi. </ String >
+    <string name = "restore_failed_reason_disk_space_not_enough " > Ruang penyimpanan tidak cukup. Kosongkan ruang terlebih dahulu. </string >
+    <string name = "restore_failed_reason_network_error " > Kesalahan jaringan. Tunggu satu atau dua menit dan coba lagi. </string >
     <string name = "restore_finish_description " > Pemulihan selesai </string >
     <string name = "restore_finished_notification_content " > Aplikasi layar utama, pengaturan sistem, dll. telah dipulihkan. </string >
     <string name = "restore_from_cloud " > Pulihkan dari backup Xiaomi Cloud </string >
